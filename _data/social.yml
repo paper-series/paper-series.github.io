@@ -1,4 +1,4 @@
-- name: CASA Google Group
+- name: Mailing list
   link: https://groups.google.com/g/comparchsa 
   icon: fa-google
   active: true
@@ -7,10 +7,6 @@
 - name: CASA Twitter Channel
   link: https://twitter.com/CompArchSA
   icon: fa-twitter
-  active: true
+  active: false
   color: 1DA1F2
 
-# - name: CASA Web Site
-  # link: http://www.comparchsa.org
-  # icon: fa-home
-  # active: true

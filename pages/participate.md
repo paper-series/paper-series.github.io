@@ -5,17 +5,20 @@ categories: "navigation"
 order: 4
 ---
 
-CALM is currently running a pilot program that pairs around 30 mentees. We have
-collected applications from potential mentees and are looking for mentors who
-are interested in supporting junior architects. We welcome mentors from
-different backgrounds, including faculties, industry researchers, and senior PhD
-students.
+# Participating as a speaker
 
-If you would like to be a mentor, please fill out [this
-form](https://forms.gle/hFE1qjvAukd8Jv4x6).
+Please apply to be a speaker [here](). If you are selected for the award you'll
+be notified a month before your award presentation. Distinguished Paper Series
+runs on a rolling deadline and considers all applications received in the last
+six months to make a decision.
 
-We will continue to run a year-long program after this pilot program. We will
-start collecting applications for the upcoming year-long program soon. Please
-watch out for our announcements at [CASA
-Twitter](https://twitter.com/comparchsa) and [CASA
-Slack](https://www.sigarch.org/casa/#join).
+Distinguished paper series award includes a one time $100 cash award andf a
+one-time $100 donation to [\<insert-charity/non-profit-here\>]() of your choice.
+
+# Attending events
+
+All Distinguished Paper Series events are free to attend. The monthly seminars
+are organized on Zoom, but are also streamed on YouTube and Twitch.
+
+Checkout our [events page]({{ '/pages/events.html' | relative_url }}) to know
+more about our future and past events.

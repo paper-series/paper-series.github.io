@@ -2,7 +2,7 @@
 title: "Committee"
 layout: default
 categories: "navigation"
-order: 4
+order: 99
 ---
 
 # CALM Committee
@@ -41,7 +41,5 @@ order: 4
 
 <h3>Join us!</h3>
 
-We are currently seeking CALM Committee members to help with the day-to-day
-tasks of running a successful long-term mentoring program.  If you can commit
-1-2 hours a week to a position that involves communicating with a wide swath of
-members of the computer architecture community, please contact the chairs.
+We are looking for committee members to organize our monthly events. Send an
+email to us at [join@distpaperseries.org](mailto:join@distpaperseries.org)
