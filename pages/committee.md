@@ -5,7 +5,7 @@ categories: "navigation"
 order: 99
 ---
 
-# CALM Committee
+# Committee
 
 <!-- NOTE: This page is automatically generated from _data/members.yml -->
 
