@@ -2,7 +2,7 @@
 title: "Events"
 layout: default
 categories: "navigation"
-order: 9
+order: 3
 ---
 
 
@@ -35,7 +35,7 @@ order: 9
 <ol>
 
     {% for page in sortedUpcoming %}
-    <li> {{ page.when-happened }} |  <a href="{{page.url}}">{{ page.title }}</a></li>
+    <li> {{ page.when-happened }} |  <a href="{{page.url | relative_url}}">{{ page.title }}</a></li>
     {% endfor %}
 </ol>
 
