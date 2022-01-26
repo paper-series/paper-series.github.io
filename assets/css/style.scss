@@ -223,6 +223,10 @@ button {
   border-radius: 0.2em;
 }
 
+button :hover {
+  cursor: pointer;
+}
+
 summary {
   color: #2c4c5e;
   font-style:italic;
@@ -291,12 +295,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color: #{{ site.colors.theme }};
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#{{ site.colors.theme-dark }};
   text-shadow: 0 0 0.01px;
 }
 

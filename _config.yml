@@ -1,6 +1,8 @@
 title: Distinguished Paper Series
 
 logo: /assets/img/dist-paper-series-rect.png
+title-below-logo: false
+
 description:
 show_downloads: false
 theme: jekyll-theme-minimal
@@ -9,5 +11,6 @@ include:
   - pages
 
 colors:
-  theme: 2274a5
-  theme-light: 54b4eb
+  theme: 008000
+  theme-light: 4CBB17
+  theme-dark: 002000
