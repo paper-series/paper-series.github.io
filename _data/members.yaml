@@ -1,7 +1,25 @@
 # Committee members here
+- name: Sihang Liu
+  photo: 
+  website: 
+  active: true
+  category: committee-member
+
 - name: Suyash Mahar
   photo: /assets/img/committee-membs/smahar.jpg
   website: https://suyashmahar.com/
+  active: true
+  category: committee-member
+
+- name: Yi Xu
+  photo: 
+  website: 
+  active: true
+  category: committee-member
+
+- name: Yueying Li
+  photo: 
+  website: 
   active: true
   category: committee-member
 

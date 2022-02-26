@@ -6,7 +6,7 @@ order: 100
 ---
 
 We'd love to hear your opinion, ideas or comments. Get in touch with us at
-[contact@distpaperseries.org](mailto:contact@distpaperseries.org)
+[contact@students-at-systems.org](mailto:contact@students-at-systems.org)
 
 To report a bug on the website, please file an issue on the [original github
 repo](https://github.com/suyashmahar/jekyll-conf-website/issues/new).

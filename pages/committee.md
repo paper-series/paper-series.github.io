@@ -16,7 +16,11 @@ order: 99
 <a href="{{mem.website}}">
 <div class="member-profile">
 <div class="member-photo-container">
+{% if mem.photo %}
 <img class="member-photo" src="{{ mem.photo | relative_url }}"/>
+{% else %}
+<img class="member-photo" src="{{ '/assets/img/profile-placeholder.png' | relative_url }}"/>
+{% endif %}
 </div>
 <div class="member-name">{{ mem.name }}</div>
 </div>
