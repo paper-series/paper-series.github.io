@@ -28,7 +28,7 @@ The panel will be a one hour live session with pre-sourced questions and live di
     * ([Twitch: TBA](javascript:void))  
 
 # Panelists
-
+To be announced!
 <!-- <div class="bio"> -->
 <!-- <img class="headshot" src="http://web.cs.ucla.edu/~zhangqian/IMG_1088.jpg" alt="Qian Zhang's Potrait"/>  -->
 
