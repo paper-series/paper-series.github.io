@@ -23,17 +23,17 @@ The panel will be a one hour live session with pre-sourced questions and live di
 * **When**:
   * The session will be live on Zoom and streamed on YouTube and Twitch.  
   **Tentative: between May 12-15, 2022** 
-    * ([Zoin us on Zoom](javascript:void))  
-    * ([Watch it on YouTube](javascript:void))  
-    * ([Watch it on Twitch](javascript:void))  
+    * ([Zoom: TBA](javascript:void))  
+    * ([YouTube: TBA](javascript:void))  
+    * ([Twitch: TBA](javascript:void))  
 
 # Panelists
 
-<div class="bio">
-<img class="headshot" src="http://web.cs.ucla.edu/~zhangqian/IMG_1088.jpg" alt="Qian Zhang's Potrait"/> 
+<!-- <div class="bio"> -->
+<!-- <img class="headshot" src="http://web.cs.ucla.edu/~zhangqian/IMG_1088.jpg" alt="Qian Zhang's Potrait"/>  -->
 
-<a href="http://web.cs.ucla.edu/~zhangqian/">Qian Zhang | TBA</a><br>
-Qian Zhang is a postdoc at UCLA working with Prof. Miryung Kim. She got her Ph.D. from The Chinese University of Hong Kong in Dec. 2017, adviced by Prof. Johnny Qiang Xu.
+<!-- <a href="http://web.cs.ucla.edu/~zhangqian/">Qian Zhang | TBA</a><br> -->
+<!-- Qian Zhang is a postdoc at UCLA working with Prof. Miryung Kim. She got her Ph.D. from The Chinese University of Hong Kong in Dec. 2017, adviced by Prof. Johnny Qiang Xu. -->
 
-</div>
+<!-- </div> -->
 
