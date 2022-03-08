@@ -10,29 +10,28 @@ preview-img: assets/img/events/kickoff-event/thumbnail.jpg
 ### 2022 Session 1: Kickoff event
 Panel on getting started with research
 
-We are organizing a panel with senior students in the area of Computer Systems to talk about their experience as systems researchers. We will answer questions on how to get started with research in systems as an undergraduate or a young PhD student, managing your relationship and expectations with your peers and your adviser, and other related stuff! 
+We are organizing a panel with senior students in the area of Computer Systems to talk about their experience as systems researchers. The panel will specifically focus on students who are getting started in the field of CS research. We will answer questions from broad areas including:
+1. How to get started with research in systems as an undergraduate or a young PhD student
+2. Managing your relationship and expectations with your your adviser, mentor and peers.
+3. How to get from starting a project to a publication.
 
+The panel will be a one hour live session with pre-sourced questions and live discussion. All student in interested in the area of systems research or related CS fields is invited to join and ask questions!
 
 * **When**:
-  * **Tentative: between May 12-15, 2022** 
+  * The session will be live on Zoom and streamed on YouTube and Twitch.
+  **Tentative: between May 12-15, 2022** 
     * ([Zoin us on Zoom](https://www.youtube.com/watch?v=j5dCWp3EfOM))  
     * ([Watch it on YouTube](https://www.youtube.com/watch?v=j5dCWp3EfOM))  
     * ([Watch it on Twitch](https://www.youtube.com/watch?v=j5dCWp3EfOM))  
 
-# Presenter
+# Panelists
 
+We are looking for panelists
 <div class="bio">
-<img class="headshot" src="{{'/assets/img/daglis.png' | relative_url }}" alt="Alexandros Daglis's Potrait"/> 
+<img class="headshot" src="{{'/assets/img/daglis.png' | relative_url }}" alt="Qian Zhang's Potrait"/> 
 
-<a href="https://www.cc.gatech.edu/~adaglis3/">To be announced | TBA</a><br>
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit
-tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et,
-mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis
-parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.
-Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.
-Nam vestibulum accumsan nisl.
-
+<a href="http://web.cs.ucla.edu/~zhangqian/">Qian Zhang | TBA</a><br>
+Qian Zhang is a postdoc at UCLA working with Prof. Miryung Kim. She got her Ph.D. from The Chinese University of Hong Kong in Dec. 2017, adviced by Prof. Johnny Qiang Xu.
 
 </div>
 
