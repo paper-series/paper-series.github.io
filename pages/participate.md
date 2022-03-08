@@ -4,7 +4,7 @@ layout: default
 categories: "navigation"
 order: 4
 ---
-
+We'll be positing the questions page link soon. Stay tuned!
 <!-- # Participating as a speaker -->
 
 <!-- Please apply to be a speaker [here](). If you are selected for the award you'll -->

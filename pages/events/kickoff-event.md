@@ -2,7 +2,7 @@
 title: Session 1 - Kickoff event
 layout: default
 categories: future-event
-when-happened: March 20, 2022
+when-happened: May 20, 2022
 when-happened-epoch: 1642904648 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/events/kickoff-event/thumbnail.jpg
 ---
