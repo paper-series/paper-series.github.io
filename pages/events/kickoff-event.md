@@ -13,12 +13,13 @@ Panel on getting started with research
 We are organizing a panel with senior students in the area of Computer Systems to talk about their experience as systems researchers. The panel will specifically focus on students who are getting started in the field of CS research. We will answer questions from broad areas including:
 1. How to get started with research in systems as an undergraduate or a young PhD student
 2. Managing your relationship and expectations with your your adviser, mentor and peers.
-3. How to get from starting a project to a publication.
+3. What to expect during your PhD.
+4. How to get from starting a project to a publication.
 
 The panel will be a one hour live session with pre-sourced questions and live discussion. All student in interested in the area of systems research or related CS fields is invited to join and ask questions!
 
 * **When**:
-  * The session will be live on Zoom and streamed on YouTube and Twitch.
+  * The session will be live on Zoom and streamed on YouTube and Twitch.  
   **Tentative: between May 12-15, 2022** 
     * ([Zoin us on Zoom](https://www.youtube.com/watch?v=j5dCWp3EfOM))  
     * ([Watch it on YouTube](https://www.youtube.com/watch?v=j5dCWp3EfOM))  
