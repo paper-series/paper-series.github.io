@@ -18,7 +18,7 @@ order: 7
         When?
     </summary>
     <p>
-    Some answer.
+    Coming soon!
     </p>
 </details>
 
@@ -28,7 +28,7 @@ order: 7
         How?
     </summary>
     <p>
-    Some answer.
+    Coming soon!
     </p>
 </details>
 
@@ -38,7 +38,7 @@ order: 7
         Why?
     </summary>
     <p>
-    Some answer.
+    Coming soon!
     </p>
 </details>
 
