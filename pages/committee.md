@@ -52,5 +52,5 @@ order: 99
 
 <h3>Join us!</h3>
 
-We are looking for committee members to organize our monthly events. Send an
-email to us at [join@distpaperseries.org](mailto:join@distpaperseries.org)
+We are looking for committee members to organize our monthly events. 
+<br>Send us an email at [join@students-at-systems.org](mailto:join@students-at-systems.org)

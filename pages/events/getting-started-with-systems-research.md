@@ -28,12 +28,31 @@ The panel will be a one hour live session with pre-sourced questions and live di
     * ([Twitch: TBA](javascript:void))  
 
 # Panelists
-To be announced!
-<!-- <div class="bio"> -->
-<!-- <img class="headshot" src="http://web.cs.ucla.edu/~zhangqian/IMG_1088.jpg" alt="Qian Zhang's Potrait"/>  -->
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/panel-may-22/eruppel.jpg' | relative_url }}" alt="Emily Ruppel's Potrait"/>
 
-<!-- <a href="http://web.cs.ucla.edu/~zhangqian/">Qian Zhang | TBA</a><br> -->
-<!-- Qian Zhang is a postdoc at UCLA working with Prof. Miryung Kim. She got her Ph.D. from The Chinese University of Hong Kong in Dec. 2017, adviced by Prof. Johnny Qiang Xu. -->
+<a href="https://users.ece.cmu.edu/~eruppel/">Emily Ruppel | PhD Student, CMU</a><br>
+Emily Ruppel is a final-year Ph.D. student at Carnegie Mellon University advised by Brandon Lucia. She researches and builds batteryless, energy harvesting systems that perform perform computationally intensive tasks despite frequent power failures. Her recent work examines runtime software and programming models that allow batteryless devices to correctly interact with their physical environment. She is currently serving as co-chair of the CALM committee 
+</div><br>
 
-<!-- </div> -->
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/panel-may-22/gsaileshwar.jpg' | relative_url }}" alt="Gururaj Saileshwar's Potrait"/>
+
+<a href="https://sites.google.com/site/gururajshome/home">Gururaj Saileshwar | Phd Student, Georgia Tech</a><br>
+Gururaj Saileshwar is a graduating Ph.D. student at Georgia Tech, Atlanta, USA, advised by Prof. Moinuddin Qureshi. His research is at the intersection of computer architecture and security, including topics like cache side-channels, transient execution attacks, memory integrity, and memory safety. Recently, Gururaj has helped co-organize Meet-A-Senior-Architect and Meet-A-Senior-Student with Joel Emer and CASA at several computer architecture conferences. He is also a part of the organizing committee for CALM which is initiating a long-term mentoring program in computer architecture. 
+</div><br>
+
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/profile-placeholder.png' | relative_url }}" alt="Stewart Grant's Potrait"/>
+
+<a href="https://www.stewartgrant.ca/">Stewart Grant | PhD student, UCSD</a><br>
+
+</div><br>
+
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/profile-placeholder.png' | relative_url }}" alt="Qian Zhang's Potrait"/>
+
+<a href="https://web.cs.ucla.edu/~zhangqian/">Qian Zhang | Post Doc, UCLA</a><br>
+
+</div>
 
