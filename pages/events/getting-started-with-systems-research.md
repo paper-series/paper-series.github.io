@@ -32,7 +32,7 @@ The panel will be a one hour live session with pre-sourced questions and live di
 <img class="headshot" src="{{ 'assets/img/panel-may-22/eruppel.jpg' | relative_url }}" alt="Emily Ruppel's Potrait"/>
 
 <a href="https://users.ece.cmu.edu/~eruppel/">Emily Ruppel | PhD Student, CMU</a><br>
-Emily Ruppel is a final-year Ph.D. student at Carnegie Mellon University advised by Brandon Lucia. She researches and builds batteryless, energy harvesting systems that perform perform computationally intensive tasks despite frequent power failures. Her recent work examines runtime software and programming models that allow batteryless devices to correctly interact with their physical environment. She is currently serving as co-chair of the CALM committee 
+Emily Ruppel is a final-year Ph.D. student at Carnegie Mellon University advised by Brandon Lucia. She researches and builds batteryless, energy harvesting systems that perform perform computationally intensive tasks despite frequent power failures. Her recent work examines runtime software and programming models that allow batteryless devices to correctly interact with their physical environment. She is currently serving as co-chair of the Computer Architecture Long-term Mentoring (CALM) committee.
 </div><br>
 
 <div class="bio">
@@ -43,10 +43,10 @@ Gururaj Saileshwar is a graduating Ph.D. student at Georgia Tech, Atlanta, USA, 
 </div><br>
 
 <div class="bio">
-<img class="headshot" src="{{ 'assets/img/profile-placeholder.png' | relative_url }}" alt="Stewart Grant's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/panel-may-22/sgrant.png' | relative_url }}" alt="Stewart Grant's Potrait"/>
 
-<a href="https://www.stewartgrant.ca/">Stewart Grant | PhD student, UCSD</a><br>
-
+<a href="https://www.stewartgrant.ca/">Stewart Grant | PhD student, UC San Diego</a><br>
+Stewart is a 4th Year PhD student working in the systems and networking group with Alex Snoeren at UCSD. His work is focused on sharing and isolation in the context of SmartNICs and disaggregated memory. You can most likely find him benchmarking RDMA and DPDK code on the third floor. Within the department he has assisted as lead on the faculty candidate student panel, and mentored undergraduates through the ERSP program.  Extraciricurly Stewart is usually rock climbing or running. Quote - "Let's Bail".
 </div><br>
 
 <div class="bio">
