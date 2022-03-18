@@ -53,6 +53,6 @@ Stewart is a 4th Year PhD student working in the systems and networking group wi
 <img class="headshot" src="{{ 'assets/img/profile-placeholder.png' | relative_url }}" alt="Qian Zhang's Potrait"/>
 
 <a href="https://web.cs.ucla.edu/~zhangqian/">Qian Zhang | Post Doc, UCLA</a><br>
-
+Qian Zhang is a postdoctoral researcher in the Computer Science Department at the University of California, Los Angeles. Her research reinvents software tools for emerging computing paradigms such as FPGA-based heterogeneous computing to improve developer productivity. This field of study brings together a unique combination of ideas from software engineering and hardware systems. Her postdoc work has been published at ESEC/FSE, ASPLOS, ICSE, ASE. Before UCLA, she received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong. Her PhD work has been published at DAC, ICCAD, DATE, TCAD. She was the recipient of the University Fellowship for Academic Excellence and the Distinguished Academic Performance Scholarship in Hong Kong. She has also been selected as one of the MIT EECS Rising Stars in 2021.
 </div>
 
