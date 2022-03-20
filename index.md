@@ -16,3 +16,4 @@ We are a small and independent group of students interested in organizing talks,
 podcasts, and panels that serve the students in the Systems community.
 
 
+<script src="{{ '/assets/js/redir.js' | relative_url }}"></script>
