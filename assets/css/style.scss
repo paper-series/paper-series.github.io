@@ -11,6 +11,11 @@
   font-size: 1.5em;
 }
 
+.external-link:after {
+    font-family: FontAwesome;
+    content: " \f08e";
+}
+
 .line-height {
   height: 1em;
 }

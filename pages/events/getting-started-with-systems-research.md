@@ -2,8 +2,8 @@
 title: Getting started with systems research
 layout: default
 categories: future-event
-when-happened: May 20, 2022
-when-happened-epoch: 1642904648 <!-- UNIX epoch, used for sorting -->
+when-happened: May 12, 2022
+when-happened-epoch: 1652338800 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/panel-may-22/panel-banner.svg
 ---
 
@@ -32,11 +32,14 @@ discussion. All student in interested in the area of systems research or related
 CS fields is invited to join and ask questions!
 
 * **When**:
+  * <div class="time-fmt-local" data-start="1652374800" data-duration="3600" data-show-timezone-link="true"></div>
+  <a target=_blank class="text-small" href="{{ 'assets/resources/calm-kickoff' | relative_url }}">ical <i class="fa fa-calendar" aria-hidden="true"></i></a>
+| <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M2ExOWQyZ29vZGlndDVoNWU0OHA0ZmdmazAgc21haGFyQHVjc2QuZWR1&amp;tmsrc=smahar%40ucsd.edu">Google Calendar <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a>
+* **Where**:
   * The session will be live on Zoom and streamed on YouTube and Twitch.  
-  **Tentative: between May 12-15, 2022** 
-    * ([Zoom: TBA](javascript:void))  
-    * ([YouTube: TBA](javascript:void))  
-    * ([Twitch: TBA](javascript:void))  
+    * <a href="javascript:void" target=_blank class="">Zoom: TBA</a>  
+    * <a href="javascript:void" target=_blank class="">YouTube: TBA</a>  
+    * <a href="javascript:void" target=_blank class="">Twitch: TBA</a>  
 
 <hr>
 
@@ -45,7 +48,7 @@ If you have a question on getting started with research, or any other aspect of
 research (including PhD, Masters or Undergrad life) use the following link to
 submit them for the panel:
 
-[QnA](https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA) (no login
+<a href="https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA" class="external-link">QnA</a> (no login
 required)
 
 <hr>
@@ -54,7 +57,7 @@ required)
 <div class="bio">
 <img class="headshot" src="{{ 'assets/img/panel-may-22/eruppel.jpg' | relative_url }}" alt="Emily Ruppel's Potrait"/>
 
-<a href="https://users.ece.cmu.edu/~eruppel/">Emily Ruppel | PhD Student, CMU</a><br>
+<a target=_blank href="https://users.ece.cmu.edu/~eruppel/">Emily Ruppel | PhD Student, CMU</a><br>
 
 Emily Ruppel is a final-year Ph.D. student at Carnegie Mellon University advised
 by Brandon Lucia. She researches and builds batteryless, energy harvesting
@@ -69,7 +72,7 @@ Long-term Mentoring (CALM) committee.
 <div class="bio">
 <img class="headshot" src="{{ 'assets/img/panel-may-22/gsaileshwar.jpg' | relative_url }}" alt="Gururaj Saileshwar's Potrait"/>
 
-<a href="https://sites.google.com/site/gururajshome/home">Gururaj Saileshwar | Phd Student, Georgia Tech</a><br>
+<a target=_blank href="https://sites.google.com/site/gururajshome/home">Gururaj Saileshwar | Phd Student, Georgia Tech</a><br>
 
 Gururaj Saileshwar is a graduating Ph.D. student at Georgia Tech, Atlanta, USA,
 advised by Prof. Moinuddin Qureshi. His research is at the intersection of
@@ -85,7 +88,7 @@ mentoring program in computer architecture.
 <div class="bio">
 <img class="headshot" src="{{ 'assets/img/panel-may-22/sgrant.png' | relative_url }}" alt="Stewart Grant's Potrait"/>
 
-<a href="https://www.stewartgrant.ca/">Stewart Grant | PhD student, UC San Diego</a><br>
+<a target=_blank href="https://www.stewartgrant.ca/">Stewart Grant | PhD student, UC San Diego</a><br>
 
 Stewart is a 4th Year PhD student working in the systems and networking group
 with Alex Snoeren at UCSD. His work is focused on sharing and isolation in the
@@ -100,7 +103,7 @@ climbing or running. Quote - "Let's Bail".
 <div class="bio">
 <img class="headshot" src="{{ 'assets/img/panel-may-22/qzhang.jpg' | relative_url }}" alt="Qian Zhang's Potrait"/>
 
-<a href="https://web.cs.ucla.edu/~zhangqian/">Qian Zhang | Post Doc, UCLA</a><br>
+<a target=_blank href="https://web.cs.ucla.edu/~zhangqian/">Qian Zhang | Post Doc, UCLA</a><br>
 
 Qian Zhang is a postdoctoral researcher in the Computer Science Department at
 the University of California, Los Angeles. Her research reinvents software tools
@@ -119,7 +122,7 @@ also been selected as one of the MIT EECS Rising Stars in 2021.
 <div class="bio">
 <img class="headshot" src="{{ 'assets/img/panel-may-22/yzhou.jpg' | relative_url }}" alt="Yang Zhou's Potrait"/>
 
-<a href="https://yangzhou1997.github.io/">Yang Zhou | PhD Student, Harvard University</a><br>
+<a target=_blank href="https://yangzhou1997.github.io/">Yang Zhou | PhD Student, Harvard University</a><br>
 
 Yuan is a fourth-year Ph.D. student @ Harvard University, advised by Prof. Minlan
 Yu and Prof. James Mickens. He is broadly interested in networked systems. In
@@ -130,4 +133,13 @@ advised by Prof. Tong Yang, where he researched data stream (or one-pass
 randomized) algorithms.
 
 </div>
+
+<!-- <hr> -->
+<br>
+<div style="font-size: 0.8em;">
+    <i>
+    Get in touch with us at <a class="external-link" target='_blank' href="mailto:{{ site.email }}">{{ site.email }}</a> if you have any questions.
+    </i>
+</div>
+<br>
 
