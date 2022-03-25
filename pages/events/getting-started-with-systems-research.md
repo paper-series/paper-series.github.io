@@ -9,7 +9,7 @@ preview-img: assets/img/panel-may-22/panel-banner.svg
 
 <img src="{{ 'assets/img/panel-may-22/panel-banner.svg' | relative_url }}">
 
-> Ask questions for the panel
+> Ask questions for the panel anonymously
 [on the QnA page](https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA)
 <!-- <hr> -->
 
@@ -20,40 +20,71 @@ Panel on getting started with research
 We are organizing a panel with senior students in the area of Computer Systems
 to talk about their experience as systems researchers. The panel will
 specifically focus on students who are getting started in the field of CS
-research. We will answer questions from broad areas including:
+research. 
 
-1. How to get started with research in systems as an undergraduate or a young PhD student
-2. Managing your relationship and expectations with your your adviser, mentor and peers.
-3. What to expect during your PhD.
-4. How to get from starting a project to a publication.
+We will answer questions from broad areas including:
+
+1. How to get started with research in systems as an undergraduate or a young PhD student?
+2. Managing your relationship and expectations with your your adviser, mentor and peers?
+3. What to expect during your PhD?
+4. How to get from starting a project to a publication?
 
 The panel will be a one hour live session with pre-sourced questions and live
 discussion. All student in interested in the area of systems research or related
 CS fields is invited to join and ask questions!
 
-* **When**:
-  * <div class="time-fmt-local" data-start="1652374800" data-duration="3600" data-show-timezone-link="true"></div>
-  <a target=_blank class="text-small" href="{{ 'assets/resources/calm-kickoff' | relative_url }}">ical <i class="fa fa-calendar" aria-hidden="true"></i></a>
-| <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M2ExOWQyZ29vZGlndDVoNWU0OHA0ZmdmazAgc21haGFyQHVjc2QuZWR1&amp;tmsrc=smahar%40ucsd.edu">Google Calendar <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a>
-* **Where**:
+<hr>
+
+* When:
+  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1652374800" data-duration="3600" data-show-timezone-link="true"></div>
+  <a target=_blank class="text-small" href="{{ 'https://calendar.google.com/calendar/ical/c_sodit929fdca7hekmhfhck6efs%40group.calendar.google.com/private-8245e4bf06cf36b1e2e8fda09ce803c0/basic.ics' | relative_url }}">ical <i class="fa fa-calendar" aria-hidden="true"></i></a>
+| <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MGZlY2xnMzAzcHJzMzFwY3Ixb3ZuM2EwdTIgY19zb2RpdDkyOWZkY2E3aGVrbWhmaGNrNmVmc0Bn&tmsrc=c_sodit929fdca7hekmhfhck6efs%40group.calendar.google.com">Google Calendar <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a>
+* Where:
   * The session will be live on Zoom and streamed on YouTube and Twitch.  
-    * <a href="javascript:void" target=_blank class="">Zoom: TBA</a>  
-    * <a href="javascript:void" target=_blank class="">YouTube: TBA</a>  
-    * <a href="javascript:void" target=_blank class="">Twitch: TBA</a>  
+    * <a class="external-link" href="https://ucsd.zoom.us/j/97252368782?pwd=Y0lXLzgveGVMU2tpQ1J3NmI3QmZpZz09" target=_blank>Join live on Zoom</a>  
+    * <a href="javascript:void" target=_blank class="">YouTube livestream: TBA</a>  
+    * <a href="javascript:void" target=_blank class="">Twitch livestream: TBA</a>  
 
 <hr>
 
-## Submit your questions!
-If you have a question on getting started with research, or any other aspect of
-research (including PhD, Masters or Undergrad life) use the following link to
-submit them for the panel:
 
-<a href="https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA" class="external-link">QnA</a> (no login
-required)
+<div class="section-header">Submit your questions!</div>
+<div class="section-content">
+    <p>
+        <b>
+        <a href="https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA"
+        class="external-link">QnA</a>         
+        </b>
+        (anonymous, no login required)
+    </p>
 
-<hr>
+    <p>
+        If you have a question on getting started with research, or any other aspect of
+        research (including PhD, Masters or Undergrad life) use the link to
+        submit them for the panel.
+    </p>
+</div>
+<br>
 
 ## Panelists
+*(Ordered by last name)*  
+
+
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/panel-may-22/sgrant.png' | relative_url }}" alt="Stewart Grant's Potrait"/>
+
+<a target=_blank href="https://www.stewartgrant.ca/">Stewart Grant | PhD student, UC San Diego</a><br>
+
+Stewart is a 4th Year PhD student working in the systems and networking group
+with Alex Snoeren at UCSD. His work is focused on sharing and isolation in the
+context of SmartNICs and disaggregated memory. You can most likely find him
+benchmarking RDMA and DPDK code on the third floor. Within the department he has
+assisted as lead on the faculty candidate student panel, and mentored
+undergraduates through the ERSP program.  Extraciricurly Stewart is usually rock
+climbing or running. Quote - "Let's Bail".
+
+</div><br>
+
 <div class="bio">
 <img class="headshot" src="{{ 'assets/img/panel-may-22/eruppel.jpg' | relative_url }}" alt="Emily Ruppel's Potrait"/>
 
@@ -85,20 +116,6 @@ mentoring program in computer architecture.
 
 </div><br>
 
-<div class="bio">
-<img class="headshot" src="{{ 'assets/img/panel-may-22/sgrant.png' | relative_url }}" alt="Stewart Grant's Potrait"/>
-
-<a target=_blank href="https://www.stewartgrant.ca/">Stewart Grant | PhD student, UC San Diego</a><br>
-
-Stewart is a 4th Year PhD student working in the systems and networking group
-with Alex Snoeren at UCSD. His work is focused on sharing and isolation in the
-context of SmartNICs and disaggregated memory. You can most likely find him
-benchmarking RDMA and DPDK code on the third floor. Within the department he has
-assisted as lead on the faculty candidate student panel, and mentored
-undergraduates through the ERSP program.  Extraciricurly Stewart is usually rock
-climbing or running. Quote - "Let's Bail".
-
-</div><br>
 
 <div class="bio">
 <img class="headshot" src="{{ 'assets/img/panel-may-22/qzhang.jpg' | relative_url }}" alt="Qian Zhang's Potrait"/>
