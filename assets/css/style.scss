@@ -280,9 +280,11 @@ h1 {
   color:#000;
   margin:0 0 20px;
   font-size: 2em;
+  text-align: left;
 }
 
 h2, h3, h4, h5, h6 {
+  text-align: left;
   color:#535353;
   margin:0 0 20px;
 }
@@ -382,8 +384,10 @@ img {
   background: #214478;
   color: white;
   padding: 0.8em;
-  padding-left: 0.5em;
+  // padding-left: 0.8em;
+  // padding-right: 0.8em;
   font-weight: bold;
+  text-align: left;
   font-size: 1.2em;
   border-top-left-radius: 0.2em;
   border-top-right-radius: 0.2em;
@@ -392,7 +396,8 @@ img {
 .section-content {
   background: #a8b8ca;
   padding: 0.8em;
-  padding-left: 0.5em;
+  text-align: left;
+  // padding-left: 0.5em;
   font-size: 1.1em;
   border-bottom-left-radius: 0.2em;
   border-bottom-right-radius: 0.2em;
