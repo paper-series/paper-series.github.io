@@ -1,7 +1,7 @@
 ---
 title: "FAQs"
 layout: default
-categories: "navigation"
+categories:
 order: 7
 ---
 
