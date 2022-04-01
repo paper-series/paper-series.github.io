@@ -4,9 +4,9 @@
   active: true
   color: 1DA1F2
 
-- name: CASA Twitter Channel
-  link: https://twitter.com/CompArchSA
+- name: Twitter Channel
+  link: https://twitter.com/StudentsSystems
   icon: fa-twitter
-  active: false
+  active: true
   color: 1DA1F2
 
