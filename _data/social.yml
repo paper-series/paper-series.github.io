@@ -16,3 +16,9 @@
   active: true
   color: FF0000
  
+- name: Twitch
+  link: https://www.twitch.tv/studentssystems
+  icon: fa-twitch
+  active: true
+  color: 6441A5
+ 
