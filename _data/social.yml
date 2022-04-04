@@ -9,4 +9,10 @@
   icon: fa-twitter
   active: true
   color: 1DA1F2
-
+ 
+- name: YouTube
+  link: https://www.youtube.com/channel/UC-0mZzcuWmMmX0G6eXnXmPA/about
+  icon: fa-youtube-play
+  active: true
+  color: FF0000
+ 
