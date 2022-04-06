@@ -1,7 +1,7 @@
 - name: Mailing list
   link: https://groups.google.com/g/comparchsa 
   icon: fa-google
-  active: true
+  active: false
   color: 1DA1F2
 
 - name: Twitter Channel
