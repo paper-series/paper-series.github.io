@@ -11,7 +11,7 @@ layout: default
 <br>
 
 
-# {{ site.title }}
+### {{ site.title }}
 We are a small and independent group of students interested in organizing talks,
 podcasts, and panels that serve the students in the Systems community.
 
