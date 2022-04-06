@@ -30,7 +30,9 @@
         {% if site.logo %}
         <div class="header-div">
           <div class="header-logo">
-            <img src="{{ site.logo | relative_url }}" alt="Logo" />
+            <a href="{{'/' | relative_url }}">
+              <img src="{{ site.logo | relative_url }}" alt="Logo" />
+            </a>
           </div>
 
           {% if site.title-below-logo %}
@@ -53,7 +55,7 @@
             {% assign homeUrl = '/index.html' | relative_url %}
             {% assign relativeUrl = '/' | relative_url %}
 
-            {% assign navItemClasses = 'nav-item' %}
+            {% assign navItemClasses = 'nav-item nav-item-hover' %}
             {% if relativeUrl == pageUrlWithBase %}
               {% assign navItemClasses = navItemClasses | append: ' nav-item-cur' %}
             {% endif %}
@@ -66,7 +68,7 @@
             {% for navPage in sortedNavPages %}
             {% if navPage.categories contains "navigation" %}
             {% assign navPageUrl = '/pages/' | append: navPage.title | downcase | replace: ' ','-' | relative_url | append: '.html' %}
-            {% assign navItemClasses = 'nav-item' %}
+            {% assign navItemClasses = 'nav-item nav-item-hover' %}
             {% assign onClick = '' %}
             
             {% if pageUrlWithBase == navPageUrl %}
