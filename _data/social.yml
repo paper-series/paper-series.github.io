@@ -1,7 +1,7 @@
 - name: Mailing list
-  link: https://groups.google.com/g/comparchsa 
+  link: https://groups.google.com/g/students-systems
   icon: fa-google
-  active: false
+  active: true
   color: 1DA1F2
 
 - name: Twitter Channel
