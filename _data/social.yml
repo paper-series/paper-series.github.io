@@ -1,8 +1,9 @@
+
 - name: Mailing list
   link: https://groups.google.com/g/students-systems
-  icon: fa-google
+  icon: fa-envelope
   active: true
-  color: 1DA1F2
+  color: 6a0dad
 
 - name: Twitter Channel
   link: https://twitter.com/StudentsSystems
@@ -16,6 +17,7 @@
   active: true
   color: FF0000
  
+
 - name: Twitch
   link: https://www.twitch.tv/studentssystems
   icon: fa-twitch
