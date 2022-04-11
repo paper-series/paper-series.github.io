@@ -2,7 +2,7 @@
 - name: Mailing list
   link: https://groups.google.com/g/students-systems
   icon: fa-solid fa-envelope
-  active: true
+  active: false
   color: 6a0dad
 
 - name: Twitter Channel

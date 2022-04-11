@@ -40,11 +40,11 @@ CS fields is invited to join and ask questions!
   <a target=_blank class="text-small" href="{{ 'https://calendar.google.com/calendar/ical/c_sodit929fdca7hekmhfhck6efs%40group.calendar.google.com/private-8245e4bf06cf36b1e2e8fda09ce803c0/basic.ics' | relative_url }}">ical <i class="fa fa-calendar" aria-hidden="true"></i></a>
 | <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MGZlY2xnMzAzcHJzMzFwY3Ixb3ZuM2EwdTIgY19zb2RpdDkyOWZkY2E3aGVrbWhmaGNrNmVmc0Bn&tmsrc=c_sodit929fdca7hekmhfhck6efs%40group.calendar.google.com">Google Calendar <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a>
 * Where:
-  * The session will be live on Zoom and streamed on YouTube and Twitch.  
+  * The session will be live on Zoom and streamed on YouTube, Twitch and BiliBili.  
     * <a class="external-link" href="https://ucsd.zoom.us/j/97252368782?pwd=Y0lXLzgveGVMU2tpQ1J3NmI3QmZpZz09" target=_blank>Join live on Zoom</a>  
-    * <a href="javascript:void" target=_blank class="">YouTube livestream: TBA</a>  
-    * <a href="javascript:void" target=_blank class="">Twitch livestream: TBA</a>  
-
+    * <a href="https://www.youtube.com/channel/UC-0mZzcuWmMmX0G6eXnXmPA/about" target=_blank class="external-link">YouTube</a>  
+    * <a href="https://www.twitch.tv/studentssystems" target=_blank class="external-link">Twitch</a>  
+    * <a href="https://live.bilibili.com/24779119" target=_blank class="external-link">BiliBili (哔哩哔哩)</a>  
 <hr>
 
 

@@ -95,7 +95,11 @@
 
       <div class="footer">
         <hr>
-        <h2 class="join-title">Keep in touch with {{ site.title }}!</h2>
+        <div class="join-title">
+          <h2 class="join-title">Keep in touch with {{ site.title }}!</h2>
+          <a class="external-link" href="https://groups.google.com/g/students-systems">Mailing list</a> or 
+        </div>
+        <br>
         <div class="join-gallery">
           {% for medium in site.data.social %}
           {% if medium.active == true %}
