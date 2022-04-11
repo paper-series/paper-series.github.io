@@ -1,26 +1,32 @@
 
 - name: Mailing list
   link: https://groups.google.com/g/students-systems
-  icon: fa-envelope
+  icon: fa-solid fa-envelope
   active: true
   color: 6a0dad
 
 - name: Twitter Channel
   link: https://twitter.com/StudentsSystems
-  icon: fa-twitter
+  icon: fa-brands fa-twitter
   active: true
   color: 1DA1F2
  
 - name: YouTube
   link: https://www.youtube.com/channel/UC-0mZzcuWmMmX0G6eXnXmPA/about
-  icon: fa-youtube-play
+  icon: fa-brands fa-youtube
   active: true
   color: FF0000
  
+- name: Bilibili
+  link: https://live.bilibili.com/24779119
+  icon: fa-brands fa-bilibili
+  active: true
+  color: 22ade4
 
 - name: Twitch
   link: https://www.twitch.tv/studentssystems
-  icon: fa-twitch
+  icon: fa-brands fa-twitch
   active: true
   color: 6441A5
+ 
  
