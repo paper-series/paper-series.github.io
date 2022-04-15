@@ -151,6 +151,20 @@
   background:url(../images/loader.gif) center center no-repeat;
 }
 
+.loading-bg {
+  border: 0;
+  background: url("../img/loader.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.loading-white-bg {
+  border: 0;
+  background: url("../img/loader-white.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 .event-yt-embed {
   width: 420px;
   max-width: 90%;

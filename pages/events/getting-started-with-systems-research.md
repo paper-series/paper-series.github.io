@@ -50,19 +50,7 @@ CS fields is invited to join and ask questions!
 
 <div class="section-header">Submit your questions!</div>
 <div class="section-content">
-    <p>
-        <b>
-        <a href="https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA"
-        class="external-link">QnA</a>         
-        </b>
-        (anonymous, no login required)
-    </p>
-
-    <p>
-        If you have a question on getting started with research, or any other aspect of
-        research (including PhD, Masters or Undergrad life) use the link to
-        submit them for the panel.
-    </p>
+    <iframe class="loading-white-bg" src="https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA" height="100%" width="100%" style="min-height: 560px;"></iframe>
 </div>
 <br>
 
