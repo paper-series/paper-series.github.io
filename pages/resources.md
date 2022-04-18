@@ -7,6 +7,9 @@ order: 4
 
 Checkout these other helpful resources:
 
+## Systems Resources
+- [Systems Conferences Schedule](https://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html){:target="_blank"} \| Systems conferences by deadlines.
+
 ## PhD Resources
 - [MyCSPhD](https://mycsphd.org){:target="_blank"} \| Whether, why, and how to get a PhD in Computer Science.
 - [PhD Life Raft](https://thephdliferaft.com){:target="_blank"} \| Blog/podcast where Dr Emma Brodzinski discusses common PhD student issues.
