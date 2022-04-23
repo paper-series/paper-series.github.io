@@ -9,6 +9,7 @@ Checkout these other helpful resources:
 
 ## Systems Resources
 - [Systems Conferences Schedule](https://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html){:target="_blank"} \| Systems conferences by deadlines.
+- [CSR Tales](https://medium.com/csr-tales){:target="_blank"} \| The Stories Behind Research in Computer Science.
 
 ## PhD Resources
 - [MyCSPhD](https://mycsphd.org){:target="_blank"} \| Whether, why, and how to get a PhD in Computer Science.
