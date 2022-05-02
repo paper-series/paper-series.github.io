@@ -88,7 +88,7 @@ Long-term Mentoring (CALM) committee.
 
 </div><br>
 
-<div class="bio">
+<!-- <div class="bio">
 <img class="headshot" src="{{ 'assets/img/panel-may-22/gsaileshwar.jpg' | relative_url }}" alt="Gururaj Saileshwar's Potrait"/>
 
 <a target=_blank href="https://sites.google.com/site/gururajshome/home">Gururaj Saileshwar | Phd Student, Georgia Tech</a><br>
@@ -102,7 +102,7 @@ with Joel Emer and CASA at several computer architecture conferences. He is also
 a part of the organizing committee for CALM which is initiating a long-term
 mentoring program in computer architecture.
 
-</div><br>
+</div><br> -->
 
 
 <div class="bio">
