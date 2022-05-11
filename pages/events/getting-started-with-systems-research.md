@@ -106,21 +106,11 @@ mentoring program in computer architecture.
 
 
 <div class="bio">
-<img class="headshot" src="{{ 'assets/img/panel-may-22/qzhang.jpg' | relative_url }}" alt="Qian Zhang's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/committee-membs/sliu.png' | relative_url }}" alt="Sihang Liu's Potrait"/>
 
-<a target=_blank href="https://web.cs.ucla.edu/~zhangqian/">Qian Zhang | Post Doc, UCLA</a><br>
+<a target=_blank href="https://www.sihangliu.com/">Sihang Liu | PhD, University of Virginia</a><br>
 
-Qian Zhang is a postdoctoral researcher in the Computer Science Department at
-the University of California, Los Angeles. Her research reinvents software tools
-for emerging computing paradigms such as FPGA-based heterogeneous computing to
-improve developer productivity. This field of study brings together a unique
-combination of ideas from software engineering and hardware systems. Her postdoc
-work has been published at ESEC/FSE, ASPLOS, ICSE, ASE. Before UCLA, she
-received her Ph.D. in Computer Science and Engineering from the Chinese
-University of Hong Kong. Her PhD work has been published at DAC, ICCAD, DATE,
-TCAD. She was the recipient of the University Fellowship for Academic Excellence
-and the Distinguished Academic Performance Scholarship in Hong Kong. She has
-also been selected as one of the MIT EECS Rising Stars in 2021.
+Sihang Liu is a final-year Ph.D. student at the University of Virginia, working with Prof. Samira Khan. His research interest lies in computer systems and architecture. In particular, he is interested in software-hardware co-design for persistent memory, to make persistent memory systems robust, efficient, and secured. He is also broadly interested in other new and emerging systems, such as near-data processing and in-network processing. His research has been recognized as MICRO Top Picks Honorable Mention, and he is awarded the Google Fellowship. He has broadly participated in mentoring, from research mentoring for high school, undergraduate, and master’s students, and non-technical mentorship, including fellowship application, job hunting, and graduate school application. Currently, he is the co-chair of computer architecture long-term mentorship (CALM) program and a committee member of Students@Systems. 
 
 </div><br>
 
