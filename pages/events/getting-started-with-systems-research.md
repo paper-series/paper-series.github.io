@@ -42,7 +42,7 @@ CS fields is invited to join and ask questions!
 * Where:
   * The session will be live on Zoom and streamed on YouTube, Twitch and BiliBili.  
     * <a class="external-link" href="https://ucsd.zoom.us/j/97252368782?pwd=Y0lXLzgveGVMU2tpQ1J3NmI3QmZpZz09" target=_blank>Join live on Zoom</a>  
-    * <a href="https://www.youtube.com/channel/UC-0mZzcuWmMmX0G6eXnXmPA/about" target=_blank class="external-link">YouTube</a>  
+    * <a href="https://youtu.be/fDTzyUGGuh8" target=_blank class="external-link">YouTube</a>  
     * <a href="https://www.twitch.tv/studentssystems" target=_blank class="external-link">Twitch</a>  
     * <a href="https://live.bilibili.com/24779119" target=_blank class="external-link">BiliBili (哔哩哔哩)</a>  
 <hr>
@@ -88,21 +88,14 @@ Long-term Mentoring (CALM) committee.
 
 </div><br>
 
-<!-- <div class="bio">
-<img class="headshot" src="{{ 'assets/img/panel-may-22/gsaileshwar.jpg' | relative_url }}" alt="Gururaj Saileshwar's Potrait"/>
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/panel-may-22/jzhou.jpg' | relative_url }}" alt="Jie Zhou's Potrait"/>
 
-<a target=_blank href="https://sites.google.com/site/gururajshome/home">Gururaj Saileshwar | Phd Student, Georgia Tech</a><br>
+<a target=_blank href="https://www.cs.rochester.edu/u/jzhou41/">Jie Zhou | Phd Student, University of Rochester</a><br>
 
-Gururaj Saileshwar is a graduating Ph.D. student at Georgia Tech, Atlanta, USA,
-advised by Prof. Moinuddin Qureshi. His research is at the intersection of
-computer architecture and security, including topics like cache side-channels,
-transient execution attacks, memory integrity, and memory safety. Recently,
-Gururaj has helped co-organize Meet-A-Senior-Architect and Meet-A-Senior-Student
-with Joel Emer and CASA at several computer architecture conferences. He is also
-a part of the organizing committee for CALM which is initiating a long-term
-mentoring program in computer architecture.
+Jie Zhou is a final-year PhD student at the University of Rochester. He works on software and systems security, with a focus on memory safety. Currently he is most interested in the interactions between safe and unsafe systems programming languages, and his long-term vision is to gradually push more provably-secure code into software systems. He is now a committee member of the Students@Systems.
 
-</div><br> -->
+</div><br>
 
 
 <div class="bio">
