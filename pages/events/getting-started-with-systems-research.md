@@ -3,7 +3,7 @@ title: Getting started with systems research
 layout: default
 categories: future-event
 when-happened: May 12, 2022
-when-happened-epoch: 1652338800 <!-- UNIX epoch, used for sorting -->
+when-happened-epoch: 1652410800 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/panel-may-22/panel-banner.svg
 ---
 
