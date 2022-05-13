@@ -1,17 +1,25 @@
 ---
 title: Getting started with systems research
 layout: default
-categories: future-event
+categories: past-event
 when-happened: May 12, 2022
 when-happened-epoch: 1652410800 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/panel-may-22/panel-banner.svg
 ---
 
+
 <img src="{{ 'assets/img/panel-may-22/panel-banner.svg' | relative_url }}">
 
-> Ask questions for the panel anonymously
-[on the QnA page](https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA)
-<!-- <hr> -->
+<!-- > Ask questions for the panel anonymously -->
+<!-- [on the QnA page](https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA) -->
+<p>
+<b style="color: maroon; font-size: 1.4em;">Update</b>
+<hr style="width: 4em; background-color: maroon;">
+This event has concluded. We'll update this page with recordings soon.<br>
+Meanwhile, checkout the livestream on YouTube: <a href="https://youtu.be/fDTzyUGGuh8">https://youtu.be/fDTzyUGGuh8</a>
+</p>
+<hr>
+
 
 
 ## Getting started with systems research
@@ -41,7 +49,7 @@ CS fields are invited to join and ask questions!
 | <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MGZlY2xnMzAzcHJzMzFwY3Ixb3ZuM2EwdTIgY19zb2RpdDkyOWZkY2E3aGVrbWhmaGNrNmVmc0Bn&tmsrc=c_sodit929fdca7hekmhfhck6efs%40group.calendar.google.com">Google Calendar <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a>
 * Where:
   * The session will be live on Zoom and streamed on YouTube, Twitch and BiliBili.  
-    * <a class="external-link" href="https://ucsd.zoom.us/j/97252368782?pwd=Y0lXLzgveGVMU2tpQ1J3NmI3QmZpZz09" target=_blank>Join live on Zoom</a>  
+    <!-- * <a class="external-link" href="https://ucsd.zoom.us/j/97252368782?pwd=Y0lXLzgveGVMU2tpQ1J3NmI3QmZpZz09" target=_blank>Join live on Zoom</a>   -->
     * <a href="https://youtu.be/fDTzyUGGuh8" target=_blank class="external-link">YouTube</a>  
     * <a href="https://www.twitch.tv/studentssystems" target=_blank class="external-link">Twitch</a>  
     * <a href="https://live.bilibili.com/24779119" target=_blank class="external-link">BiliBili (哔哩哔哩)</a>  
