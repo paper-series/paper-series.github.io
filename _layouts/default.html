@@ -68,12 +68,13 @@
             {% for navPage in sortedNavPages %}
             {% if navPage.categories contains "navigation" %}
             {% assign navPageUrl = '/pages/' | append: navPage.title | downcase | replace: ' ','-' | relative_url | append: '.html' %}
-            {% assign navItemClasses = 'nav-item nav-item-hover' %}
+            {% assign navItemClasses = 'nav-item' %}
             {% assign onClick = '' %}
             
             {% if pageUrlWithBase == navPageUrl %}
               {% assign navItemClasses = navItemClasses | append: ' nav-item-cur' %}
             {% else %}
+              {% assign navItemClasses = navItemClasses | append: ' nav-item-hover' %}
               {% assign onClick = "window.location='" | append: navPageUrl | append: "';" %}
             {% endif %}
             
@@ -83,8 +84,10 @@
             {% endif %}
             {% endfor %}
             <a href="javascript:void(0);" class="nav-item nav-hamburger" onclick="navBarHamToggle()">
-              {{ site.title }}&nbsp;
-              <i class="fa fa-bars"></i>
+              <div id="nav-bar-name-collapsed">
+                {{ site.title }}&nbsp;
+              </div>
+              <i id="hamburger-menu-icon" class="fa fa-bars"></i>
             </a>
 	</div>
       </nav>

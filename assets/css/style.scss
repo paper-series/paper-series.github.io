@@ -42,7 +42,7 @@
 .nav-item-resp a {
   float: none;
   display: block;
-  text-align: left;
+  text-align: right;
 }
 
 .nav-item-header {
@@ -516,8 +516,12 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+#nav-bar-name-collapsed {
+  display: inline-block;
+}
+
 .nav-item-small-scr {
-  
+  text-align: right;
 }
 
 @media print, screen and (max-width: 1600px) {
