@@ -53,4 +53,4 @@ order: 99
 <h3>Join us!</h3>
 
 We are looking for committee members to organize our monthly events. 
-<br>Send us an email at [https://forms.gle/dnwT7Riras471GfFA](https://forms.gle/dnwT7Riras471GfFA)
+<br>Join us by signing up at [https://forms.gle/dnwT7Riras471GfFA](https://forms.gle/dnwT7Riras471GfFA)
