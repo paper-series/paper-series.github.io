@@ -2,7 +2,7 @@
 title: Getting a job in academia
 layout: default
 categories: future-event
-when-happened: July 18, 2022
+when-happened: July 2022
 when-happened-epoch: 1658163600 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/panel-jobs/panel-banner.png
 summary: Panel to help systems students looking to go into academia.
