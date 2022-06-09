@@ -1,0 +1,33 @@
+<div class="highlights-events-wrapper">
+  <h2>Our Events</h2>
+  Checkout some of our events. More in our <a href="{{ 'pages/events.html' | relative_url }}
+">events page</a>.
+
+  <p>
+    <hr>
+    
+    {% 
+    assign sortedEvents = site.pages 
+    | sort:"when-happened-epoch" 
+    | reverse
+    | where_exp: "item", "item.categories contains 'event'"
+    %}
+
+<ol>    
+    {% for page in sortedEvents %}
+    <li>
+  <p>
+    <h3><a href="{{ page.url | relative_url }}">{{page.title}}</a></h3>
+    
+    {{ page.summary }}
+  </p>
+  </li>
+
+  {% endfor %}
+  <br>
+  </ol>
+  <hr>
+  
+
+  </p>
+</div>

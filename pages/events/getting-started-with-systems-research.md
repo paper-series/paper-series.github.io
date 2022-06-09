@@ -5,6 +5,7 @@ categories: past-event
 when-happened: May 12, 2022
 when-happened-epoch: 1652410800 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/panel-may-22/panel-banner.svg
+summary: A panel with senior students in the area of Computer Systems to talk about their experience as systems researchers.
 ---
 
 
@@ -107,7 +108,7 @@ Jie Zhou is a final-year PhD student at the University of Rochester. He works on
 
 
 <div class="bio">
-<img class="headshot" src="{{ 'assets/img/committee-membs/sliu.png' | relative_url }}" alt="Sihang Liu's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/committee-membs/sliu.jpg' | relative_url }}" alt="Sihang Liu's Potrait"/>
 
 <a target=_blank href="https://www.sihangliu.com/">Sihang Liu | PhD, University of Virginia</a><br>
 

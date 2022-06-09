@@ -1,0 +1,20 @@
+<div class="highlights-wrapper">
+  <h2>Highlights</h2>
+  Checkout some highlights from our recent events:
+
+  <p>
+    <hr>
+    <div class="video-carousel">
+      {% for elem in site.data.indexhighlights %}
+      {% if elem.active %}
+      <div class="video-carousel-item">
+        <iframe src="{{ elem.link }}" width="100%" height="100%" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <br>
+    <hr>
+
+  </p>
+</div>

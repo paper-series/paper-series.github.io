@@ -5,6 +5,57 @@
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
 
+/** Events highlights - start **/
+
+
+/** Events highlights - end **/
+
+/** Carousel - start **/
+
+.video-carousel {
+  height: 240px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  overflow-x: auto;
+  overflow-y: hidden;
+  align-content: flex-start;
+}
+
+.video-carousel-item {
+  width: 426px;
+  height: 100%;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+/** Carousel - end **/
+
+.highlights-events-wrapper {
+  background-color: #f8f5d0;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.highlights-events-wrapper > h2 {
+  color: #635e0e;
+}
+
+.highlights-wrapper {
+  background-color: #d4ecd6;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.highlights-wrapper > h2 {
+  color: #18391b;
+}
+
+.highlights-wrapper > hr {
+  background-color: white;
+}
+
 .header-div {
   width: 100%;
   text-align: center;

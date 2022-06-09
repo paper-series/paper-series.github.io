@@ -5,6 +5,7 @@ categories: future-event
 when-happened: July 18, 2022
 when-happened-epoch: 1658163600 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/panel-jobs/panel-banner.png
+summary: Panel to help systems students looking to go into academia.
 ---
 
 <img src="{{ 'assets/img/panel-jobs/panel-banner.png' | relative_url }}"/>
