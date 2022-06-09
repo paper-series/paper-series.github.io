@@ -36,7 +36,7 @@ order: 3
 
     {% for page in sortedUpcoming %}
 
-    <li> {{ page.when-happened }} |  <a href="{{page.url | relative_url}}">{{ page.title }}</a></li>
+    <li class="event-header"> {{ page.when-happened }} |  <a href="{{page.url | relative_url}}">{{ page.title }}</a></li>
     {% if page.preview-img != nil %}
         <br>
         <a href="{{ page.url | relative_url }}">

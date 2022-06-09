@@ -4,7 +4,7 @@ layout: default
 
 {% include start-banner.html %}
 <center>
-📢 Checkout our panel on <a href="{{'/pages/events/getting-started-with-systems-research.html' | relative_url}}">getting starting with research</a>!
+📢 Checkout our upcoming panel on <a href="{{'/pages/events/getting-job-in-academia.html' | relative_url}}">getting job in academia</a>!
 </center>
 {% include end-banner.html %}
 
