@@ -18,24 +18,10 @@ More info coming soon! Meanwhile, checkout our panelists below.
 
 * When:
   * Coming soon!
-  <!-- * <div style="font-weight: bold;" class="time-fmt-local" data-start="1652374800" data-duration="3600" data-show-timezone-link="true"></div> -->
-  <!-- <a target=_blank class="text-small" href="{{ 'https://calendar.google.com/calendar/ical/c_sodit929fdca7hekmhfhck6efs%40group.calendar.google.com/private-8245e4bf06cf36b1e2e8fda09ce803c0/basic.ics' | relative_url }}">ical <i class="fa fa-calendar" aria-hidden="true"></i></a> -->
-<!-- | <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MGZlY2xnMzAzcHJzMzFwY3Ixb3ZuM2EwdTIgY19zb2RpdDkyOWZkY2E3aGVrbWhmaGNrNmVmc0Bn&tmsrc=c_sodit929fdca7hekmhfhck6efs%40group.calendar.google.com">Google Calendar <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a> -->
 * Where:
   * Coming soon!
-  <!-- * The session will be live on Zoom and streamed on YouTube, Twitch and BiliBili.  
-    <!-- * <a class="external-link" href="https://ucsd.zoom.us/j/97252368782?pwd=Y0lXLzgveGVMU2tpQ1J3NmI3QmZpZz09" target=_blank>Join live on Zoom</a>   -->
-    <!-- * <a href="https://youtu.be/fDTzyUGGuh8" target=_blank class="external-link">YouTube</a>   -->
-    <!-- * <a href="https://www.twitch.tv/studentssystems" target=_blank class="external-link">Twitch</a>   -->
-    <!-- * <a href="https://live.bilibili.com/24779119" target=_blank class="external-link">BiliBili (哔哩哔哩)</a>   --> -->
 <hr>
 
-
-<!-- <div class="section-header">Submit your questions!</div>
-<div class="section-content">
-    <iframe class="loading-white-bg" src="https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA" height="100%" width="100%" style="min-height: 560px;"></iframe>
-</div>
-<br> -->
 
 ## Panelists
 *(Ordered by last name)*  
