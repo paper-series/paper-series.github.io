@@ -40,7 +40,7 @@ Gururaj is a PhD candidate in ECE at Georgia Tech, USA, advised by Prof. Moinudd
 <div class="bio">
 <img class="headshot" src="https://lh6.googleusercontent.com/IK__PT-f-VzMrr4Ccp3b82EY_9mNUsKi8xRbvACpQUc6hHKL4kJ4VikMMLjfDzFSKxeZAa99GCoyXrBlQiG_b-6HKMS-goElCEvHWXpfnzgCfdr-qqoWa5cUFeAnDNQKBQ=w1280" alt="George Tzimpragos's Potrait"/>
 
-<a target=_blank href="https://www.georgetzimpragos.com/">George Tzimpragos | Soon: Professor at University of Michigana</a><br>
+<a target=_blank href="https://www.georgetzimpragos.com/">George Tzimpragos | Soon: Professor at University of Michigan</a><br>
 
 George received his Ph.D in Computer Science from UC Santa Barbara. His dissertation was on the development, formalization, and deployment of a neuro-inspired temporal paradigm for in-sensor processing and superconducting computing.
 
