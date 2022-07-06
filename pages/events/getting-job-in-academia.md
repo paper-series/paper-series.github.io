@@ -33,7 +33,7 @@ invited to join and ask questions!
     * <a href="https://youtu.be/fDTzyUGGuh8" target=_blank class="external-link">YouTube</a>
 * Please register on Eventbrite so we can reach out to you with the latest info
   * <a target=_blank class="text-small" href="https://bit.ly/july-22-panel-reg">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
-* Subscribe for future events:
+* Subscribe for future events
   * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
 <hr>
 
