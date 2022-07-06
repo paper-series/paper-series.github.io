@@ -31,10 +31,11 @@ invited to join and ask questions!
   * The session will be live on Zoom and streamed on YouTube. The recording will be available on YouTube and BiliBili
     * <a class="external-link" href="https://ucsd.zoom.us/j/94923859045?pwd=Zkxic0FkNUpJWVZrY0FiMUV5aXg2Zz09" target=_blank>Join live on Zoom</a>  
     * <a href="https://youtu.be/fDTzyUGGuh8" target=_blank class="external-link">YouTube</a>
-* To get the latest info, please register using one of the following approaches, so we can send you reminder emails:
-  * <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MWsxa2swaGZlYWRoMDQ4aTIwZnZuOGtlOWIgeml3MDAyQGVuZy51Y3NkLmVkdQ&tmsrc=ziw002%40eng.ucsd.edu">Google Calendar<img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a>
-  * <a target=_blank class="text-small" href="https://bit.ly/july-22-panel-reg">Eventbrite<img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
-  * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List<img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
+* To get the latest info
+  * Please register using one of the following approaches, so we can reach out to you
+    * <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MWsxa2swaGZlYWRoMDQ4aTIwZnZuOGtlOWIgeml3MDAyQGVuZy51Y3NkLmVkdQ&tmsrc=ziw002%40eng.ucsd.edu">Google Calendar <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a>
+    * <a target=_blank class="text-small" href="https://bit.ly/july-22-panel-reg">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
+    * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
 <hr>
 
 <div class="section-header">Submit your questions!</div>
@@ -45,6 +46,14 @@ invited to join and ask questions!
 ## Panelists
 *(Ordered by last name)*  
 
+<div class="bio">
+<img class="headshot" src="https://jren73.github.io/images/IMG_2884.JPG" alt="Jie Ren's Potrait"/>
+
+<a target=_blank href="https://jren73.github.io/">Jie Ren | Soon: Asst. Professor at William & Marry</a><br>
+
+Jie is currently a PhD candidate in the Parallel Architecture, System, and Algorithm Lab at the UC Merced supervised by Prof. Dong Li. Her research focuses on developing practical techniques to solve memory management issues in parallel computing systems, particularly in developing runtime support on heterogeneous memory systems.
+
+</div><br>
 
 <div class="bio">
 <img class="headshot" src="https://gururaj-s.github.io/assets/img/gs.jpg" alt="Gururaj Saileshwar's Potrait"/>
@@ -57,15 +66,6 @@ Gururaj is a PhD candidate in ECE at Georgia Tech, USA, advised by Prof. Moinudd
 </div><br>
 
 <div class="bio">
-<img class="headshot" src="{{ 'assets/img/panel-jobs/gtzimpragos.jpg' | relative_url }}" alt="George Tzimpragos' Potrait"/>
-
-<a target=_blank href="https://www.georgetzimpragos.com/">George Tzimpragos | Now: Asst. Professor at University of Michigan</a><br>
-
-George received his Ph.D in Computer Science from UC Santa Barbara. His dissertation was on the development, formalization, and deployment of a neuro-inspired temporal paradigm for in-sensor processing and superconducting computing.
-
-</div><br>
-
-<div class="bio">
 <img class="headshot" src="https://mktrm.github.io/images/Kazem.jpeg" alt="Kazem Taram's Potrait"/>
 
 <a target=_blank href="https://mktrm.github.io/">Kazem Taram | Soon: To Be Announced</a><br>
@@ -74,15 +74,15 @@ Kazem is a PhD. candidate in the Department of Computer Science and Engineering 
 
 </div><br>
 
-
 <div class="bio">
-<img class="headshot" src="https://jren73.github.io/images/IMG_2884.JPG" alt="Jie Ren's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/panel-jobs/gtzimpragos.jpg' | relative_url }}" alt="George Tzimpragos' Potrait"/>
 
-<a target=_blank href="https://jren73.github.io/">Jie Ren | Soon: Asst. Professor at William & Marry</a><br>
+<a target=_blank href="https://www.georgetzimpragos.com/">George Tzimpragos | Now: Asst. Professor at University of Michigan</a><br>
 
-Jie is currently a PhD candidate in the Parallel Architecture, System, and Algorithm Lab at the UC Merced supervised by Prof. Dong Li. Her research focuses on developing practical techniques to solve memory management issues in parallel computing systems, particularly in developing runtime support on heterogeneous memory systems.
+George received his Ph.D in Computer Science from UC Santa Barbara. His dissertation was on the development, formalization, and deployment of a neuro-inspired temporal paradigm for in-sensor processing and superconducting computing.
 
 </div><br>
+
 
 <div class="bio">
 <img class="headshot" src="http://web.cs.ucla.edu/~zhangqian/IMG_1088.jpg" alt="Qian Zhang's Potrait"/>
