@@ -1,5 +1,6 @@
 var map = {
-    'panel-may-2022': 'pages/events/getting-started-with-systems-research.html'
+    'panel-may-2022': 'pages/events/getting-started-with-systems-research.html',
+    'jobs-panel': 'pages/events/getting-job-in-academia.html'
 }
 
 
