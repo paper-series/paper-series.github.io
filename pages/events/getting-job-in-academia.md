@@ -84,7 +84,7 @@ George received his Ph.D in Computer Science from UC Santa Barbara. His disserta
 
 
 <div class="bio">
-<img class="headshot" src="http://web.cs.ucla.edu/~zhangqian/IMG_1088.jpg" alt="Qian Zhang's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/panel-jobs/qian.jpg' | relative_url }}" alt="Qian Zhang's Potrait"/>
 
 <a target=_blank href="http://web.cs.ucla.edu/~zhangqian/">Qian Zhang | Soon: Asst. Professor at UC Riverside</a><br>
 
