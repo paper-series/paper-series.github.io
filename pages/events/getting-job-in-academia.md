@@ -31,11 +31,10 @@ invited to join and ask questions!
   * The session will be live on Zoom and streamed on YouTube. The recording will be available on YouTube and BiliBili
     * <a class="external-link" href="https://ucsd.zoom.us/j/94923859045?pwd=Zkxic0FkNUpJWVZrY0FiMUV5aXg2Zz09" target=_blank>Join live on Zoom</a>  
     * <a href="https://youtu.be/fDTzyUGGuh8" target=_blank class="external-link">YouTube</a>
-* To get the latest info
-  * Please register using one of the following approaches, so we can reach out to you
-    * <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MWsxa2swaGZlYWRoMDQ4aTIwZnZuOGtlOWIgeml3MDAyQGVuZy51Y3NkLmVkdQ&tmsrc=ziw002%40eng.ucsd.edu">Google Calendar <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a>
-    * <a target=_blank class="text-small" href="https://bit.ly/july-22-panel-reg">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
-    * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
+* Please register on Eventbrite so we can reach out to you with the latest info
+  * <a target=_blank class="text-small" href="https://bit.ly/july-22-panel-reg">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
+* Subscribe for future events:
+  * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
 <hr>
 
 <div class="section-header">Submit your questions!</div>
