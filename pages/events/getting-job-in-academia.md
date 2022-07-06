@@ -65,7 +65,7 @@ Gururaj is a PhD candidate in ECE at Georgia Tech, USA, advised by Prof. Moinudd
 </div><br>
 
 <div class="bio">
-<img class="headshot" src="https://mktrm.github.io/images/Kazem.jpeg" alt="Kazem Taram's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/panel-jobs/kazem.jpg' | relative_url }}" alt="Kazem Taram's Potrait"/>
 
 <a target=_blank href="https://mktrm.github.io/">Kazem Taram | Soon: To Be Announced</a><br>
 
