@@ -2,8 +2,8 @@
 title: Getting a job in academia
 layout: default
 categories: future-event
-when-happened: July 2022
-when-happened-epoch: 1658163600 <!-- UNIX epoch, used for sorting -->
+when-happened: July 22, 2022
+when-happened-epoch: 1658527200 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/panel-jobs/panel-banner.png
 summary: Panel to help systems students looking to go into academia.
 ---
@@ -11,17 +11,36 @@ summary: Panel to help systems students looking to go into academia.
 <img src="{{ 'assets/img/panel-jobs/panel-banner.png' | relative_url }}"/>
 
 ## Getting a job in academia
-More info coming soon! Meanwhile, checkout our panelists below.
 
+Panel on getting a job in academia.
+
+We are organizing a panel with senior students in the area of Computer Systems
+to talk about their experience on getting an academic jobs. The panel will
+specifically focus on students who are planning to get an academic jobs.
+
+The panel will be a one-hour live session with pre-sourced questions and live
+discussion. All students interested in getting an academic jobs in CS fields are
+invited to join and ask questions!
 
 <hr>
 
 * When:
-  * Coming soon!
+  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1658527200" data-duration="3600" data-show-timezone-link="true"></div>
+  <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MWsxa2swaGZlYWRoMDQ4aTIwZnZuOGtlOWIgeml3MDAyQGVuZy51Y3NkLmVkdQ&tmsrc=ziw002%40eng.ucsd.edu">Google Calendar <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a>
 * Where:
-  * Coming soon!
+  * The session will be live on Zoom and streamed on YouTube. The recording will be available on YouTube and BiliBili
+    * <a class="external-link" href="https://ucsd.zoom.us/j/94923859045?pwd=Zkxic0FkNUpJWVZrY0FiMUV5aXg2Zz09" target=_blank>Join live on Zoom</a>  
+    * <a href="https://youtu.be/fDTzyUGGuh8" target=_blank class="external-link">YouTube</a>
+* To get the latest info, please register using one of the following approaches, so we can send you reminder emails:
+  * <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MWsxa2swaGZlYWRoMDQ4aTIwZnZuOGtlOWIgeml3MDAyQGVuZy51Y3NkLmVkdQ&tmsrc=ziw002%40eng.ucsd.edu">Google Calendar<img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a>
+  * <a target=_blank class="text-small" href="https://bit.ly/july-22-panel-reg">Eventbrite<img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
+  * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List<img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
 <hr>
 
+<div class="section-header">Submit your questions!</div>
+<div class="section-content">
+    <iframe class="loading-white-bg" src="https://app.sli.do/event/t1mhZ27ECpwDXN4nEDpqTq" height="100%" width="100%" style="min-height: 560px;"></iframe>
+</div>
 
 ## Panelists
 *(Ordered by last name)*  
@@ -30,7 +49,7 @@ More info coming soon! Meanwhile, checkout our panelists below.
 <div class="bio">
 <img class="headshot" src="https://gururaj-s.github.io/assets/img/gs.jpg" alt="Gururaj Saileshwar's Potrait"/>
 
-<a target=_blank href="https://gururaj-s.github.io/">Gururaj Saileshwar | Soon: Professor at University of Toronto</a><br>
+<a target=_blank href="https://gururaj-s.github.io/">Gururaj Saileshwar | Soon: Asst. Professor at University of Toronto</a><br>
 
 Gururaj is a PhD candidate in ECE at Georgia Tech, USA, advised by Prof. Moinuddin Qureshi. His research interests in computer architecture and security include cache side-channels, transient execution attacks, Rowhammer attacks, DRAM integrity, memory safety and fuzzing.
 
@@ -40,7 +59,7 @@ Gururaj is a PhD candidate in ECE at Georgia Tech, USA, advised by Prof. Moinudd
 <div class="bio">
 <img class="headshot" src="{{ 'assets/img/panel-jobs/gtzimpragos.jpg' | relative_url }}" alt="George Tzimpragos' Potrait"/>
 
-<a target=_blank href="https://www.georgetzimpragos.com/">George Tzimpragos | Asst. Professor, University of Michigan</a><br>
+<a target=_blank href="https://www.georgetzimpragos.com/">George Tzimpragos | Now: Asst. Professor at University of Michigan</a><br>
 
 George received his Ph.D in Computer Science from UC Santa Barbara. His dissertation was on the development, formalization, and deployment of a neuro-inspired temporal paradigm for in-sensor processing and superconducting computing.
 
@@ -49,7 +68,7 @@ George received his Ph.D in Computer Science from UC Santa Barbara. His disserta
 <div class="bio">
 <img class="headshot" src="https://mktrm.github.io/images/Kazem.jpeg" alt="Kazem Taram's Potrait"/>
 
-<a target=_blank href="https://mktrm.github.io/">Kazem Taram | Soon: </a><br>
+<a target=_blank href="https://mktrm.github.io/">Kazem Taram | Soon: To Be Announced</a><br>
 
 Kazem is a PhD. candidate in the Department of Computer Science and Engineering (CSE) at the University of California San Diego (UCSD). He is advised by Dean Tullsen and his research interests are in computer architecture and computer security. In particular, he is interested in microarchitectural attacks and high-performance mitigations.
 
@@ -59,7 +78,7 @@ Kazem is a PhD. candidate in the Department of Computer Science and Engineering 
 <div class="bio">
 <img class="headshot" src="https://jren73.github.io/images/IMG_2884.JPG" alt="Jie Ren's Potrait"/>
 
-<a target=_blank href="https://jren73.github.io/">Jie Ren | Soon: Professor at William & Marry</a><br>
+<a target=_blank href="https://jren73.github.io/">Jie Ren | Soon: Asst. Professor at William & Marry</a><br>
 
 Jie is currently a PhD candidate in the Parallel Architecture, System, and Algorithm Lab at the UC Merced supervised by Prof. Dong Li. Her research focuses on developing practical techniques to solve memory management issues in parallel computing systems, particularly in developing runtime support on heterogeneous memory systems.
 
@@ -68,7 +87,7 @@ Jie is currently a PhD candidate in the Parallel Architecture, System, and Algor
 <div class="bio">
 <img class="headshot" src="http://web.cs.ucla.edu/~zhangqian/IMG_1088.jpg" alt="Qian Zhang's Potrait"/>
 
-<a target=_blank href="http://web.cs.ucla.edu/~zhangqian/">Qian Zhang | Soon: Professor at UC Riverside</a><br>
+<a target=_blank href="http://web.cs.ucla.edu/~zhangqian/">Qian Zhang | Soon: Asst. Professor at UC Riverside</a><br>
 
 Qian is a postdoc at UCLA working with Prof. Miryung Kim. She got her Ph.D. from The Chinese University of Hong Kong in Dec. 2017, adviced by Prof. Johnny Qiang Xu. Her research lies at the intersection of software engineering, heterogeneous hardware design, and data-intensive scalable computing (DISC) systems. Currently, she is working on interactive human-in-the-loop design space exploration for heterogeneous computing with FPGAs, and an offloading runtime with input guard synthesis for heterogeneous computing.
 

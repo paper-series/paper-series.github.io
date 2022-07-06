@@ -34,11 +34,11 @@ research.
 We will answer questions from broad areas including:
 
 1. How to get started with research in systems as an undergraduate or a young PhD student?
-2. Managing your relationship and expectations with your your adviser, mentor and peers?
+2. Managing your relationship and expectations with your adviser, mentor and peers?
 3. What to expect during your PhD?
 4. How to get from starting a project to a publication?
 
-The panel will be a one hour live session with pre-sourced questions and live
+The panel will be a one-hour live session with pre-sourced questions and live
 discussion. All students interested in the area of systems research or related
 CS fields are invited to join and ask questions!
 
