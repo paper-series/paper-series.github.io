@@ -34,8 +34,7 @@
 
 .highlights-events-wrapper {
   background-color: #f8f5d0;
-  padding: 1em;
-  border-radius: 1em;
+  padding: 2em;
 }
 
 .highlights-events-wrapper > h2 {
@@ -44,8 +43,7 @@
 
 .highlights-wrapper {
   background-color: #d4ecd6;
-  padding: 1em;
-  border-radius: 1em;
+  padding: 2em;
 }
 
 .highlights-wrapper > h2 {
@@ -86,7 +84,8 @@
   overflow: hidden;
   position: -webkit-sticky;
   position: sticky;
-  box-shadow: 0 8px 6px -6px black;
+  border-bottom: gray solid 1px;
+  // box-shadow: 0 8px 6px -6px black;
 }
 
 /* Responsive version for small screen */
@@ -227,11 +226,11 @@
 
 .announcement {
   background: #fffbf0;
-  padding: 1em;
+  padding: 2em;
   color: green;
   font-size: 1.5em;
   border: 4px solid orange;
-  border-radius: 10px;
+  border-width: 0.2em 0px 0.2em 0px;
   text-align: left;
 }
 
@@ -277,14 +276,49 @@ header {
 }
 
 section {
+  box-shadow: -10px 0 10px -10px #333, 5px 0 5px -5px #333;
   width: 55vw;
   float: right;
   position: absolute;
   padding-bottom:50px;
-  padding-left: 12vw;
+  margin-left: 12vw;
   margin-top: 0;
   padding-top: 0;
 }
+
+section > .content > h2 {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.sep-yellow-white {  
+  height: 100px;
+  background-image: linear-gradient(to bottom right, #f8f5d0 50%, #f8f5d0, white, white 50%);
+}
+.sep-white-green {  
+  height: 100px;
+  background-image: linear-gradient(to bottom right, white 50%, white, #d4ecd6, #d4ecd6 50%);
+}
+.sep-green-yellow {  
+  height: 100px;
+  background-image: linear-gradient(to bottom left, #d4ecd6, #d4ecd6 50%, #f8f5d0 50%, #f8f5d0);
+}
+
+section > .content > ul {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+section > .content > h1 {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+section > .content > p {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
 
 .wrapper {
   width:100em;
@@ -630,8 +664,6 @@ footer {
 
   .content {
     word-wrap:break-word;
-    padding-right: 10%;
-    padding-left: 10%;
   }
 
   
@@ -708,10 +740,6 @@ footer {
   body {
     word-wrap:break-word;
     padding:0;
-  }
-
-  .content {
-    padding: 5%;
   }
 
   p, ul, ol, table, pre, dl, .bio {
