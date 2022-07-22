@@ -30,7 +30,7 @@ invited to join and ask questions!
 * Where:
   * The session will be live on Zoom and streamed on YouTube. The recording will be available on YouTube and BiliBili
     * <a class="external-link" href="https://ucsd.zoom.us/j/94923859045?pwd=Zkxic0FkNUpJWVZrY0FiMUV5aXg2Zz09" target=_blank>Join live on Zoom</a>  
-    * <a href="https://youtu.be/fDTzyUGGuh8" target=_blank class="external-link">YouTube</a>
+    * <a href="https://youtu.be/mZeYJxIFD_s" target=_blank class="external-link">YouTube</a>
 * Please register on Eventbrite so we can reach out to you with the latest info
   * <a target=_blank class="text-small" href="https://bit.ly/july-22-panel-reg">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
 * Subscribe for future events
