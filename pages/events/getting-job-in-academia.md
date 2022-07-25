@@ -1,7 +1,7 @@
 ---
 title: Getting a job in academia
 layout: default
-categories: future-event
+categories: past-event
 when-happened: July 22, 2022
 when-happened-epoch: 1658527200 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/panel-jobs/panel-banner.png
@@ -9,6 +9,14 @@ summary: Panel to help systems students looking to go into academia.
 ---
 
 <img src="{{ 'assets/img/panel-jobs/panel-banner.png' | relative_url }}"/>
+
+<p>
+<b style="color: maroon; font-size: 1.4em;">Update</b>
+<hr style="width: 4em; background-color: maroon;">
+This event has concluded. We'll update this page with recordings soon.<br>
+Meanwhile, checkout the livestream on YouTube: <a href="https://www.youtube.com/watch?v=mZeYJxIFD_s">https://www.youtube.com/watch?v=mZeYJxIFD_s</a>
+</p>
+<hr>
 
 ## Getting a job in academia
 
