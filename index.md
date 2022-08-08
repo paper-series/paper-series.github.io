@@ -4,7 +4,7 @@ layout: default
 
 {% include start-banner.html %}
 <center>
-📢 Checkout our upcoming panel on <a href="{{'/pages/events/getting-job-in-academia.html' | relative_url}}">getting job in academia</a>!
+📢 Checkout our latest panel on <a href="{{'/pages/events/getting-job-in-academia.html' | relative_url}}">getting job in academia</a>!
 </center>
 {% include end-banner.html %}
 <br>
