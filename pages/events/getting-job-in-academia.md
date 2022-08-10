@@ -75,7 +75,7 @@ Gururaj is a PhD candidate in ECE at Georgia Tech, USA, advised by Prof. Moinudd
 <div class="bio">
 <img class="headshot" src="{{ 'assets/img/panel-jobs/kazem.jpeg' | relative_url }}" alt="Kazem Taram's Potrait"/>
 
-<a target=_blank href="https://mktrm.github.io/">Kazem Taram | Soon: To Be Announced</a><br>
+<a target=_blank href="https://mktrm.github.io/">Kazem Taram | Soon: Purdue University</a><br>
 
 Kazem is a PhD. candidate in the Department of Computer Science and Engineering (CSE) at the University of California San Diego (UCSD). He is advised by Dean Tullsen and his research interests are in computer architecture and computer security. In particular, he is interested in microarchitectural attacks and high-performance mitigations.
 

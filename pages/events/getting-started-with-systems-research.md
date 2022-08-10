@@ -53,7 +53,7 @@ CS fields are invited to join and ask questions!
     <!-- * <a class="external-link" href="https://ucsd.zoom.us/j/97252368782?pwd=Y0lXLzgveGVMU2tpQ1J3NmI3QmZpZz09" target=_blank>Join live on Zoom</a>   -->
     * <a href="https://youtu.be/fDTzyUGGuh8" target=_blank class="external-link">YouTube</a>  
     * <a href="https://www.twitch.tv/studentssystems" target=_blank class="external-link">Twitch</a>  
-    * <a href="https://live.bilibili.com/24779119" target=_blank class="external-link">BiliBili (哔哩哔哩)</a>  
+    * <a href="https://www.bilibili.com/video/BV1uB4y197o2" target=_blank class="external-link">BiliBili (哔哩哔哩)</a>  
 <hr>
 
 
