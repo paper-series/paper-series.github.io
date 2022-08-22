@@ -2,7 +2,7 @@
 title: Women in Systems
 layout: default
 categories: future-event
-when-happened: May 12, 2023
+when-happened: Sept 2022
 when-happened-epoch: 1752410800 <!-- UNIX epoch, used for sorting -->
 preview-img: 
 summary: Panel focuses on insights from leaders in Systems to help current and future generations of researchers.
