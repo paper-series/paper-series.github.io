@@ -35,7 +35,7 @@ For the first episode we will have Prof. Christina Delimitrou and chat with her 
 
 <a target=_blank href="https://www.csl.cornell.edu/~delimitrou/">Christina Delimitrou</a><br>
 
-Christina’s main interests are in computer architecture and computer systems. Specifically, I work on improving the resource efficiency of large-scale datacenters through QoS-aware scheduling and resource management techniques. I am also interested in designing efficient server architectures, distributed performance debugging, and cloud security. Before joining Cornell, she earned a Ph.D. in Electrical Engineering at Stanford University. 
+Christina’s main interests are in computer architecture and computer systems. Specifically, Christina work on improving the resource efficiency of large-scale datacenters through QoS-aware scheduling and resource management techniques. Christina am also interested in designing efficient server architectures, distributed performance debugging, and cloud security. Before joining Cornell, she earned a Ph.D. in Electrical Engineering at Stanford University. 
 <br>
 She has received a Sloan Faculty Research Award, two Google Faculty Research Awards (2019 and 2020), a Microsoft Research Faculty Fellowship, the 2020 IEEE TCCA Young Computer Architect Award, an Intel Rising Star Award, a Google Research Award in Recognition of Technical Leadership and Achievements in Systems Research, a Facebook Faculty Research Award, the Cornell Excellence in Research Award, and the Cornell Excellence in Teaching Award. Her work has also received five IEEE Micro TopPicks Awards, one TopPicks Honorable Mention, and several best paper awards. 
 
