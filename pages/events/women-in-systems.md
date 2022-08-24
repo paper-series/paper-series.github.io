@@ -8,6 +8,8 @@ preview-img:
 summary: Panel focuses on insights from leaders in Systems to help current and future generations of researchers.
 ---
 
+## Episode 1
+For the first episode we will have Prof. Christina Delimitrou and chat with her about her experience!
 
 <hr>
 
