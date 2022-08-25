@@ -4,9 +4,11 @@ layout: default
 categories: future-event
 when-happened: Aug 26, 2022
 when-happened-epoch: 1661547600 <!-- UNIX epoch, used for sorting -->
-preview-img: 
+preview-img: assets/img/women-in-systems-ep1/ep1.png
 summary: Panel focuses on insights from leaders in Systems to help current and future generations of researchers.
 ---
+
+<img src="{{ 'assets/img/women-in-systems-ep1/ep1.png' | relative_url }}"/>
 
 ## Episode 1
 For the first episode we will have Prof. Christina Delimitrou and chat with her about her experience!
@@ -18,7 +20,8 @@ For the first episode we will have Prof. Christina Delimitrou and chat with her 
 * Where:  
   * The session will be live on Zoom and streamed on YouTube.
     * <a href="https://youtu.be/ddYMdEav3Eg" target=_blank class="external-link">YouTube</a> 
-
+* Please register on Eventbrite so we can reach out to you with the latest info
+  * <a target=_blank class="text-small" href="https://www.eventbrite.com/e/women-in-computer-systems-research-ep1-tickets-407730772717">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
 <hr>
 
 <!--
