@@ -13,6 +13,13 @@ summary: Panel focuses on insights from leaders in Systems to help current and f
 ## Episode 1
 For the first episode we will have Prof. Christina Delimitrou and chat with her about her experience!
 
+
+
+<div class="section-header">Submit your questions!</div>
+<div class="section-content">
+    <iframe class="loading-white-bg" src="https://app.sli.do/event/gvurjFQQGviwjztFyoXVbe/live/questions" height="100%" width="100%" style="min-height: 560px;"></iframe>
+</div>
+
 <hr>
 
 * When:
