@@ -1,4 +1,11 @@
 # Committee members here
+
+- name: Yueying Li
+  photo: /assets/img/committee-membs/yli.jpeg
+  website: https://www.linkedin.com/in/%E6%82%A6%E9%A2%96-%E6%9D%8E-144479131/
+  active: true
+  category: committee-member
+  
 - name: Sihang Liu
   photo: /assets/img/committee-membs/sliu.jpg
   website: https://www.sihangliu.com
@@ -11,21 +18,21 @@
   active: true
   category: committee-member
 
-- name: Yi Xu
-  photo: https://cns.ucsd.edu/wp-content/uploads/2020/03/Yi-Xu-e1606863440356.jpg
-  website: 
-  active: true
-  category: committee-member
 
-- name: Yueying Li
-  photo: /assets/img/committee-membs/yli.jpeg
-  website: https://www.linkedin.com/in/%E6%82%A6%E9%A2%96-%E6%9D%8E-144479131/
+- name: Dmitrii Ustiugov
+  photo: /assets/img/committee-membs/dustiugov.jpg
   active: true
   category: committee-member
 
 - name: Zixuan Wang
   photo: /assets/img/committee-membs/zwang.jpg
   website: https://cseweb.ucsd.edu/~ziw002/
+  active: true
+  category: committee-member
+
+- name: Yi Xu
+  photo: https://cns.ucsd.edu/wp-content/uploads/2020/03/Yi-Xu-e1606863440356.jpg
+  website: 
   active: true
   category: committee-member
 
