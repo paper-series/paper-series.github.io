@@ -1,7 +1,7 @@
 ---
 title: Women in Systems, Ep. 1
 layout: default
-categories: future-event
+categories: past-event
 when-happened: Aug 29, 2022
 when-happened-epoch: 1661806800 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/women-in-systems-ep1/ep1.png
