@@ -8,7 +8,7 @@ preview-img:
 summary: Panel focuses on insights from leaders in Systems to help current and future generations of researchers.
 ---
 
-<img src="{{ 'assets/img/women-in-systems-ep1/ep1.png' | relative_url }}"/>
+<!-- <img src="{{ 'assets/img/women-in-systems-ep1/ep1.png' | relative_url }}"/> -->
 
 ## Episode 2
 For the second episode we will have Prof. Mengjia Yan and chat with her about her experience!
