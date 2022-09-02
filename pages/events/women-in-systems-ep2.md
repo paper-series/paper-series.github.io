@@ -8,7 +8,7 @@ preview-img:
 summary: Panel focuses on insights from leaders in Systems to help current and future generations of researchers.
 ---
 
-<!-- <img src="{{ 'assets/img/women-in-systems-ep1/ep1.png' | relative_url }}"/> -->
+<img src="{{ 'assets/img/women-in-systems-ep2/ep2.png' | relative_url }}"/>
 
 ## Episode 2
 For the second episode we will have Prof. Mengjia Yan and chat with her about her experience!
@@ -38,9 +38,10 @@ For the second episode we will have Prof. Mengjia Yan and chat with her about he
 ## Panelist
 
 <div class="bio">
-<img class="headshot" src="" alt="Mengjia's Portrait"/>
+<img class="headshot" src="https://avatars.githubusercontent.com/u/6825299?v=4" alt="Mengjia's Portrait"/>
 
 <a target=_blank href="https://people.csail.mit.edu/mengjia/">Mengjia Yan</a><br>
+Mengjia’s research interest lies in the areas of computer architecture and security, with a focus on side-channel attacks and defenses. Her group works on exploiting new micro-architectural vulnerabilities and designing comprehensive and efficient defense mechanisms. She earned a Ph.D. degree in Computer Science from the University of Illinois at Urbana-Champaign (UIUC).
 
 </div><br>
 
