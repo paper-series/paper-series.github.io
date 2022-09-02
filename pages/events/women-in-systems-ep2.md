@@ -4,7 +4,7 @@ layout: default
 categories: future-event
 when-happened: Week 2, Sept 2022
 when-happened-epoch: 1761806800 <!-- UNIX epoch, used for sorting -->
-preview-img: 
+preview-img: assets/img/women-in-systems-ep2/ep2.png
 summary: Panel focuses on insights from leaders in Systems to help current and future generations of researchers.
 ---
 
