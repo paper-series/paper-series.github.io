@@ -5,7 +5,7 @@ categories: future-event
 when-happened: Wed, Sept 14 2022
 when-happened-epoch: 1663189200 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/women-in-systems-ep2/ep2.png
-summary: Panel focuses on insights from leaders in Systems to help current and future generations of researchers.
+summary: For the second episode we will have Prof. Mengjia Yan and chat with her about her experience!
 ---
 
 <img src="{{ 'assets/img/women-in-systems-ep2/ep2.png' | relative_url }}"/>
