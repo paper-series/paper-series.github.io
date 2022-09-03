@@ -2,8 +2,8 @@
 title: Women in Systems, Ep. 2
 layout: default
 categories: future-event
-when-happened: Week 2, Sept 2022
-when-happened-epoch: 1761806800 <!-- UNIX epoch, used for sorting -->
+when-happened: Wed, Sept 14 2022
+when-happened-epoch: 1663189200 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/women-in-systems-ep2/ep2.png
 summary: Panel focuses on insights from leaders in Systems to help current and future generations of researchers.
 ---
@@ -22,7 +22,7 @@ For the second episode we will have Prof. Mengjia Yan and chat with her about he
 <hr>
 
 * When:
-  * To be announced!
+  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1663189200" data-duration="3600" data-show-timezone-link="true"></div>
 * Where:  
   * To be announced!
 
