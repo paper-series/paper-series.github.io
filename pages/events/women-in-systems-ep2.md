@@ -24,12 +24,14 @@ For the second episode we will have Prof. Mengjia Yan and chat with her about he
 * When:
   * <div style="font-weight: bold;" class="time-fmt-local" data-start="1663189200" data-duration="3600" data-show-timezone-link="true"></div>
 * Where:  
-  * To be announced!
-
+  * The session will be live on Zoom and streamed on YouTube.
+    * <a href="https://youtu.be/EwRNdeMHKpk" target=_blank class="external-link">YouTube</a> 
+* Please register on Eventbrite so we can reach out to you with the latest info
+  * <a target=_blank class="text-small" href="https://www.eventbrite.com/e/studentssystems-women-in-systems-ep-2-tickets-413731521117">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
 <hr>
 
-<!--
-<div class="section-header">Submit your questions!</div>
+
+<!-- <div class="section-header">Submit your questions!</div>
 <div class="section-content">
     <iframe class="loading-white-bg" src="https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA" height="100%" width="100%" style="min-height: 560px;"></iframe>
 </div>
