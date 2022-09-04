@@ -37,7 +37,7 @@ For the second episode we will have Prof. Mengjia Yan and chat with her about he
 </div>
 <br> -->
 
-## Panelist
+## Guest
 
 <div class="bio">
 <img class="headshot" src="https://avatars.githubusercontent.com/u/6825299?v=4" alt="Mengjia's Portrait"/>
