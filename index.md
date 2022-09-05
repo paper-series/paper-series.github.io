@@ -18,6 +18,10 @@ podcasts, and panels that serve the students in the Systems community.
 
 <br>
 
+{% include women-in-systems.html %}
+
+<br>
+
 {% include past-events.html %}
 
 <script src="{{ '/assets/js/redir.js' | relative_url }}"></script>

@@ -11,10 +11,12 @@
     | sort:"when-happened-epoch" 
     | reverse
     | where_exp: "item", "item.categories contains 'event'"
+    |
     %}
 
 <ol>    
     {% for page in sortedEvents %}
+    {% unless page.categories contains 'wis' %}
     <li>
   <p>
     <h3><a href="{{ page.url | relative_url }}">{{page.title}}</a></h3>
@@ -22,6 +24,7 @@
     {{ page.summary }}
   </p>
   </li>
+    {% endunless %}
 
   {% endfor %}
   <br>

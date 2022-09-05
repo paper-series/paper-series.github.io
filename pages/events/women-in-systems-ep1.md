@@ -1,7 +1,10 @@
 ---
 title: Women in Systems, Ep. 1
+episode: 1
+guests: Prof. Christina Delimitrou
 layout: default
-categories: past-event
+categories: past-event wis
+tags: women-in-systems podcast
 when-happened: Aug 29, 2022
 when-happened-epoch: 1661806800 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/women-in-systems-ep1/ep1.png

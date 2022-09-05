@@ -5,6 +5,10 @@
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
 
+.events-page-list {
+  margin-bottom: 2em;
+}
+
 /** Events highlights - start **/
 
 
@@ -40,6 +44,16 @@
 
 .highlights-events-wrapper > h2 {
   color: #635e0e;
+}
+
+.wis-events-wrapper {
+  background-color: #f2f2f2;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.wis-events-wrapper > h2 {
+  color: #3C403D;
 }
 
 .highlights-wrapper {
@@ -185,10 +199,34 @@
 
 .event-header {
   font-size: 1.2em;
+  padding-bottom: 2em;
 }
 
 .event-thumbnail-img {
+  padding-top: 0.5em;
   width: 80%;
+}
+
+.event-preview-container {
+  display: flex;
+}
+
+.event-preview-small {
+  width: auto;
+  padding: 2.5%;
+  display: block;
+  flex-direction: row;
+}
+.event-preview-small > h3 {
+  width: 100%;
+}
+
+.event-thumbnail-img-small {
+//  width: 40%;
+}
+
+.event-preview-small-summary {
+
 }
 
 .embedded-form {
@@ -619,6 +657,19 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {  
+  .event-preview-container {
+    flex-direction: column;
+  }
+
+  .event-preview-small {
+    width: 100%;
+    flex-shrink: 0;
+  }
+
+  .event-thumbnail-img-small {
+    width: 95%;
+  }
+
   .header-div {
     padding: 0;
   }

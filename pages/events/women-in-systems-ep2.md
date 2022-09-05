@@ -1,7 +1,10 @@
 ---
 title: Women in Systems, Ep. 2
+guests: Prof. Mengjia Yan
+episode: 2
 layout: default
-categories: future-event
+tags: women-in-systems podcast
+categories: future-event wis
 when-happened: Wed, Sept 14 2022
 when-happened-epoch: 1663189200 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/women-in-systems-ep2/ep2.png
