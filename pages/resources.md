@@ -12,6 +12,7 @@ Checkout these other helpful resources:
 - [CSR Tales](https://medium.com/csr-tales){:target="_blank"} \| The Stories Behind Research in Computer Science.
 
 ## PhD Resources
+- [PhD Fellowships](https://www.cs.cmu.edu/~gradfellowships/) \| List of PhD fellowships and deadlines collected by CMU.
 - [MyCSPhD](https://mycsphd.org){:target="_blank"} \| Whether, why, and how to get a PhD in Computer Science.
 - [PhD Life Raft](https://thephdliferaft.com){:target="_blank"} \| Blog/podcast where Dr Emma Brodzinski discusses common PhD student issues.
 - [PhD Success Community](https://phdsuccess.eu/phd-success-community){:target="_blank"} \| Network/connect with PhD students from all over Europe.
