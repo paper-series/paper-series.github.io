@@ -1,7 +1,7 @@
 ---
 title: Women in Systems, Ep. 3
 guests: Prof. Natacha Crooks
-episode: 2
+episode: 3
 layout: default
 tags: women-in-systems podcast
 categories: future-event wis
@@ -13,7 +13,7 @@ summary: For the second episode we will have Prof. Natacha Crooks and chat with 
 
 <img src="{{ 'assets/img/women-in-systems-ep3/ep3.png' | relative_url }}"/>
 
-## Episode 2
+## Episode 3
 For the second episode we will have Prof. Natacha Crooks and chat with her about her experience!
 
 
