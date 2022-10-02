@@ -209,10 +209,13 @@
 
 .event-preview-container {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .event-preview-small {
   width: auto;
+  min-width: 45%;
+  max-width: 45%;
   padding: 2.5%;
   display: block;
   flex-direction: row;
@@ -663,6 +666,7 @@ footer {
 
   .event-preview-small {
     width: 100%;
+    max-width: 100%;
     flex-shrink: 0;
   }
 
