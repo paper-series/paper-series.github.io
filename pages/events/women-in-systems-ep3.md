@@ -28,7 +28,7 @@ For the third episode we will have Prof. Natacha Crooks and chat with her about 
   * <div style="font-weight: bold;" class="time-fmt-local" data-start="1665421200" data-duration="3600" data-show-timezone-link="true"></div>
 * Where:  
   * The session will be live on Zoom and streamed on YouTube.
-    * <a href="https://www.youtube.com/channel/UC-0mZzcuWmMmX0G6eXnXmPA/" target=_blank class="external-link">YouTube</a> 
+    * <a href="https://youtu.be/bAO4uRdEoNM" target=_blank class="external-link">YouTube</a> 
 * Please register on Eventbrite so we can reach out to you with the latest info
   * Coming soon!
 <hr>
