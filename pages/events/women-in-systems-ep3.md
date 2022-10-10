@@ -25,7 +25,8 @@ For the third episode we will have Prof. Natacha Crooks and chat with her about 
 <hr>
 
 * When:
-  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1665421200" data-duration="3600" data-show-timezone-link="true"></div>
+  * This event is moved to the week of Oct 17, we will update this page with the time soon!
+  <!-- * <div style="font-weight: bold;" class="time-fmt-local" data-start="1665421200" data-duration="3600" data-show-timezone-link="true"></div> -->
 * Where:  
   * The session will be live on Zoom and streamed on YouTube.
     * <a href="https://cornell.zoom.us/j/95834258186?pwd=U0E5NHlJbjBWSVVMNU1Ua0YwekY1UT09" target=_blank class="external-link">Zoom</a> 
