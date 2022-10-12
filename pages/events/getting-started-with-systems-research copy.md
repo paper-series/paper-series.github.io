@@ -4,12 +4,12 @@ layout: default
 categories: future-event
 when-happened: Oct 28, 2022
 when-happened-epoch: 1752410800 <!-- UNIX epoch, used for sorting -->
-preview-img: assets/img/grad-school-app/banner.svg
+preview-img: assets/img/grad-school-app/banner.png
 summary: A tweet storm to answer common graduate school application questions.
 ---
 
 
-<img src="{{ 'assets/img/grad-school-app/banner.svg' | relative_url }}">
+<img src="{{ 'assets/img/grad-school-app/banner.png' | relative_url }}">
 
 <!-- > Ask questions for the panel anonymously -->
 <!-- [on the QnA page](https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA) -->
