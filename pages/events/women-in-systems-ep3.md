@@ -5,8 +5,8 @@ episode: 3
 layout: default
 tags: women-in-systems podcast
 categories: future-event wis
-when-happened: Mon, Oct 10 2022
-when-happened-epoch: 1665421200 <!-- UNIX epoch, used for sorting -->
+when-happened: Mon, Oct 17 2022
+when-happened-epoch: 1666026000 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/women-in-systems-ep3/ep3.png
 summary: For the second episode we will have Prof. Natacha Crooks and chat with her about her experience!
 ---
@@ -25,8 +25,7 @@ For the third episode we will have Prof. Natacha Crooks and chat with her about 
 <hr>
 
 * When:
-  * This event is moved to the week of Oct 17, we will update this page with the time soon!
-  <!-- * <div style="font-weight: bold;" class="time-fmt-local" data-start="1665421200" data-duration="3600" data-show-timezone-link="true"></div> -->
+  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1666026000" data-duration="3600" data-show-timezone-link="true"></div>
 * Where:  
   * The session will be live on Zoom and streamed on YouTube.
     * <a href="https://cornell.zoom.us/j/95834258186?pwd=U0E5NHlJbjBWSVVMNU1Ua0YwekY1UT09" target=_blank class="external-link">Zoom</a> 
