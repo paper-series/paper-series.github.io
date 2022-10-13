@@ -13,9 +13,15 @@ summary: A tweet storm to answer common graduate school application questions.
 
 ## Graduate School Applications
 
-Hello grad school aspirants,<br>
-We are organizing a tweetstorm to answer all your queries about the grad school application process! Ask your questions in the Slido below.<br>
-On October 28, we will post a curated list of your questions from Slido on our Twitter account. Professors and students, some of which are listed below, will answer your questions on Twitter.<br>
+Hello grad school aspirants,
+<p>
+We are organizing a tweetstorm to answer all your queries about the grad school application process! Ask your questions in the Slido below.
+</p>
+
+<p>
+On October 28, we will post a curated list of your questions from Slido on our Twitter account. Professors and students, some of which are listed below, will answer your questions on Twitter.
+</p>
+
 <hr>
 
 <!-- > Ask questions for the panel anonymously -->
@@ -35,7 +41,7 @@ Meanwhile, checkout the livestream on YouTube: <a href="https://youtu.be/fDTzyUG
 * When:  
   <!-- * <div style="font-weight: bold;" class="time-fmt-local" data-start="1652374800" data-duration="3600" data-show-timezone-link="true"></div> -->
   <!-- <a target=_blank class="text-small" href="{{ 'https://calendar.google.com/calendar/ical/c_sodit929fdca7hekmhfhck6efs%40group.calendar.google.com/private-8245e4bf06cf36b1e2e8fda09ce803c0/basic.ics' | relative_url }}">ical <i class="fa fa-calendar" aria-hidden="true"></i></a> -->
-  Oct 28
+  * October 28, 2022
 
 * Where:
   * Our Twitter: <a href="https://twitter.com/StudentsSystems">@StudentsSsystems</a>
