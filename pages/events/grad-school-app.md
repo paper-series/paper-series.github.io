@@ -24,6 +24,12 @@ On October 28, we will post a curated list of your questions from Slido on our T
 
 <hr>
 
+
+<div class="section-header">Submit your Questions here:</div>
+<div class="section-content">
+    <iframe class="loading-white-bg" src="https://app.sli.do/event/gEPmvF5s2FU2Fen4x8yjfj" height="100%" width="100%" style="min-height: 560px;"></iframe>
+</div>
+
 <!-- > Ask questions for the panel anonymously -->
 <!-- [on the QnA page](https://app.sli.do/event/muvx8icUQr3w3kz6kNaEXA) -->
 <!-- <p>
@@ -44,7 +50,7 @@ Meanwhile, checkout the livestream on YouTube: <a href="https://youtu.be/fDTzyUG
   * October 28, 2022
 
 * Where:
-  * Our Twitter: <a href="https://twitter.com/StudentsSystems">@StudentsSsystems</a>
+  * Our Twitter: <a href="https://twitter.com/StudentsSystems">@StudentsSystems</a>
 
 <hr>
 
@@ -55,9 +61,14 @@ Meanwhile, checkout the livestream on YouTube: <a href="https://youtu.be/fDTzyUG
 </div>
 <br> -->
 
-## Panelists
-*(Ordered by last name)*  
-
+## Panelists 
+<ul>
+  <li><a target=_blank href="https://www.cs.utexas.edu/~vijay/"> Vijay Chidambaram - Professor, University of Texas at Austin</a> (<a  target=_blank href="https://twitter.com/vj_chidambaram">@vj_chidambaram</a>)</li>
+<li><a target=_blank href="https://dependenttyp.es/"> Talia Ringer - Professor, University of Illinois at Urbana-Champaign</a> (<a  target=_blank href="https://twitter.com/TaliaRinger">@TaliaRinger</a>)</li>
+  <li><a target=_blank href="https://mshahrad.github.io/"> Mohammad Shahrad - Professor, University of British Columbia</a> (<a  target=_blank href="https://twitter.com/MShahrad">@MShahrad</a>)</li>
+  <li><a target=_blank href="https://cseweb.ucsd.edu//~nibhaska/"> Nishant Bhaskar - PhD Student, University of California San Diego </a> (<a  target=_blank href="https://twitter.com/nishant412">@nishant412</a>)</li>
+    <li><a target=_blank href="https://www.cs.cornell.edu/~yucheng/"> Yucheng Lu - PhD Student, Cornell University </a> (<a  target=_blank href="https://twitter.com/yuchengthekid">@yuchengthekid</a>)</li>
+</ul>
 
 <!-- <div class="bio">
 <img class="headshot" src="{{ 'assets/img/panel-may-22/yzhou.jpg' | relative_url }}" alt="Yang Zhou's Potrait"/>
