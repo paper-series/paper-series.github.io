@@ -47,6 +47,11 @@ For the third episode we will have Prof. Natacha Crooks and chat with her about 
 <img class="headshot" src="https://nacrooks.github.io/assets/img/prof_pic.jpg" alt="Natacha's Portrait"/>
 
 <a target=_blank href="https://nacrooks.github.io/">Natacha Crooks</a><br>
+Prof. Natacha Crooks is currently a professor in UC Berkeley in Data Systems and Foundation Group. She is also a Lead Research Consultant at Improbable in the UK, a founding member of SkyLab and a member of Berkeley Center of Decentralized Intelligence. She works at the intersection of distributed systems, databases, and distributed computing.  
+
+She is interested in designing new primitives and systems for the large-scale, geo-replicated storage systems that underpin modern applications like Amazon or Facebook. She has won: Jim Gray Doctoral Dissertation Award (Honorable Mention), Google Research Award, best dissertation in the field of operating and distributed systems, ACM SIGOPS, etc. She also won VMWare Research Faculty Award. 
+
+In the industry, she is currently a scientific advisor at Improbable on their metaverse project. Most recently, she was a strategic advisor at Astronomer. She previously worked at Materialize, a new streaming SQL materialized view engine, where she remains a technical advisor.
 
 
 </div><br>
