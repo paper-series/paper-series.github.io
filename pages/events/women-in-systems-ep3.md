@@ -4,7 +4,7 @@ guests: Prof. Natacha Crooks
 episode: 3
 layout: default
 tags: women-in-systems podcast
-categories: future-event wis
+categories: past-event wis
 when-happened: Mon, Oct 17 2022
 when-happened-epoch: 1666000800 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/women-in-systems-ep3/ep3.png
