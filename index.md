@@ -4,7 +4,7 @@ layout: default
 
 {% include start-banner.html %}
 <center>
-📢 Checkout the upcoming episode of <a href="{{'/pages/events/women-in-systems-ep3.html' | relative_url}}">women in systems</a>!
+📢 Checkout the upcoming tweet storm to answer your questions on <a href="{{'/pages/events/grad-school-app.html' | relative_url}}">graduate school applications</a>!
 </center>
 {% include end-banner.html %}
 <br>
