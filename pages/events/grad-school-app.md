@@ -50,7 +50,7 @@ Meanwhile, checkout the livestream on YouTube: <a href="https://youtu.be/fDTzyUG
   * October 28, 2022
 
 * Where:
-  * Our Twitter: <a target=_blank href="https://twitter.com/StudentsSystems">@StudentsSystems</a>
+  * Our Twitter: <a target=_blank class="external-link" href="https://twitter.com/StudentsSystems">@StudentsSystems</a>
 
 <hr>
 
