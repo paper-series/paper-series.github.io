@@ -51,7 +51,7 @@ Meanwhile, checkout the livestream on YouTube: <a href="https://youtu.be/fDTzyUG
 
 * Where:
   * Our Twitter: <a target=_blank class="external-link" href="https://twitter.com/StudentsSystems">@StudentsSystems</a>
-  * Join our mailing list for updates: <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
+  * Join our mailing list for updates: <a target=_blank class="external-link" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
 <hr>
 
 
