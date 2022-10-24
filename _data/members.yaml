@@ -22,6 +22,7 @@
 - name: Dmitrii Ustiugov
   photo: /assets/img/committee-membs/dustiugov.jpg
   active: true
+  website: https://ustiugov.github.io/
   category: committee-member
 
 - name: Zixuan Wang
