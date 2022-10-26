@@ -40,6 +40,9 @@ Checkout these other helpful resources:
 - [WIARCH SIGARCH](https://www.sigarch.org/wiarch){:target="_blank"} \| Community for women studying and working in the field of computer architecture. 
 - [CASA DEI book club](http://comparchsa.org){:target="_blank"} \| Summer DEI reading group.
 
+## Grad School
+- [Grad Application Help](https://twitter.com/limufar/status/1585095583169404928) \| Feedback on CS gradschool application material (SOP, CV, ...).
+- [The Definitive ‘what do I ask/look for’ in a PhD Advisor Guide](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf) \| Guide to what questions to ask when choosing between PhD programs.
 
 <br>
 <i>Is something missing? We'd love to add it, reach out using the links below.</i>
