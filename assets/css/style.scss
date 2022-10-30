@@ -9,6 +9,85 @@
   margin-bottom: 2em;
 }
 
+/** Tweet storm stuff **/
+.ts-question {
+  // width: 80%;
+  max-width: 1440px;
+  font-size: 1.3em;
+  text-align: left;
+  color: #657786;
+  background-color: #E1E8ED;
+  padding: 0.8em;
+  border-left: white;
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em;
+  padding-left: 1.5em;
+}
+
+.twitter-link {
+  color: #1DA1F2 !important;
+}
+
+.twitter-link :visited {
+  color: #1DA1F2 !important;
+}
+
+.twitter-link :hover {
+  color: #1DA1F2 !important;
+}
+
+.ts-thread {
+  margin: auto;
+  width: 80%;
+}
+
+.ts-response {
+  max-width: 1440px;
+  display: flex;
+  border-bottom: white solid 0.1em;
+  font-size: 1em;
+  background-color: #F5F8FA;
+  padding: 0.8em;
+  // padding-right: 1.5em;
+}
+
+.ts-response-contents {
+  padding-left: 0.5em;
+  text-align: left;
+}
+
+.ts-user-profile {
+  color: #1DA1F2;
+  padding-bottom: 0.5em;
+}
+
+.ts-user-profile-picture {
+  color: #1DA1F2;
+}
+
+.slido {
+  // max-width: 1440px;
+}
+
+.ts-tweet-link {
+  font-size: 0.5em;
+  color: #1DA1F2;
+}
+
+.ts-user {
+  display:block;
+  flex-grow: 0;
+  flex-shrink: 0;
+  // padding-right: 0.5em;
+}
+
+.ts-user-profile-picture > img {
+  height: 3em;
+  width: 3em;
+  border-radius: 50%;
+}
+
+
 /** Events highlights - start **/
 
 
@@ -681,7 +760,17 @@ footer {
   body {
     word-wrap: break-word;
     padding: 0;
+  }  
+
+  .ts-thread {
+    margin: auto;
+    width: 95%;
   }
+
+  .ts-question {
+    padding-left: 1em;
+  }
+
 
   .content {
     word-wrap:break-word;

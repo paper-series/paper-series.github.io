@@ -11,6 +11,39 @@ summary: A tweet storm to answer common graduate school application questions.
 
 <img src="{{ 'assets/img/grad-school-app/banner.png' | relative_url }}">
 
+## This event has concluded!
+We have collected all the questions and answers here:
+
+{% for elem in site.data.grad-app-tweet-storm %}
+  <div class='ts-thread'>
+    <div class='ts-question'>
+    {{elem.question}}<br/>
+    <a target=_blank href="{{ resp.response.link }}" class='ts-tweet-link external-link twitter-link'>View on twitter</a>
+    </div>
+
+    {% for resp in elem.responses %}
+    <div class='ts-response'>
+      <div class='ts-user'>
+        <a target=_blank href="https://twitter.com/{{ resp.response.handle }}" class='ts-user-profile-picture twitter-link'><img src="{{ resp.response.user-image }}"></a>
+      </div>
+      <div class='ts-response-contents'>
+        <a target=_blank href="https://twitter.com/{{ resp.response.handle }}" class='ts-user-profile twitter-link'>@{{resp.response.handle}}</a>
+        <p>
+        {{ resp.response.contents }}
+        <br>
+        <a target=_blank href="{{ resp.response.link }}" class='twitter-link ts-tweet-link external-link'>View on twitter</a>
+        </p>
+      </div>
+    </div>
+
+    {% endfor %}
+    <br>
+  </div>
+  {% endfor %}
+
+<hr>
+
+
 ## Graduate School Applications
 
 Hello grad school aspirants,
@@ -25,7 +58,7 @@ On October 28, we will post a curated list of your questions from Slido on our T
 <hr>
 
 
-<div class="section-header">Submit your Questions here:</div>
+<div class="section-header slido">Submit your Questions here:</div>
 <div class="section-content">
     <iframe class="loading-white-bg" src="https://app.sli.do/event/gEPmvF5s2FU2Fen4x8yjfj" height="100%" width="100%" style="min-height: 560px;"></iframe>
 </div>
