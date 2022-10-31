@@ -1,7 +1,7 @@
 ---
 title: Graduate School Applications
 layout: default
-categories: future-event
+categories: past-event
 when-happened: Oct 28, 2022
 when-happened-epoch: 1752410800 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/grad-school-app/banner.png
@@ -13,6 +13,7 @@ summary: A tweet storm to answer common graduate school application questions.
 
 ## This event has concluded!
 We have collected all the questions and answers here:
+
 
 {% for elem in site.data.grad-app-tweet-storm %}
   <div class='ts-thread'>
@@ -40,6 +41,10 @@ We have collected all the questions and answers here:
     <br>
   </div>
   {% endfor %}
+
+<hr>
+
+<a class='external-link' style="font-size:0.75em" href="https://twitter.com/StudentsSystems/status/1586025167234355201">(Original thread)</a>
 
 <hr>
 
