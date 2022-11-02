@@ -11,6 +11,12 @@ preview-img: assets/img/women-in-systems-ep2/ep2.png
 summary: For the second episode we will have Prof. Mengjia Yan and chat with her about her experience!
 ---
 
+### This event has concluded!
+Checkout the livestream here: <a target=_blank class="external-link" href="https://youtu.be/EwRNdeMHKpk">https://youtu.be/EwRNdeMHKpk</a>
+
+<hr>
+
+
 <img src="{{ 'assets/img/women-in-systems-ep2/ep2.png' | relative_url }}"/>
 
 ## Episode 2
