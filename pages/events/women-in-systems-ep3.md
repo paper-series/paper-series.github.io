@@ -13,6 +13,9 @@ summary: For the second episode we will have Prof. Natacha Crooks and chat with 
 
 <img src="{{ 'assets/img/women-in-systems-ep3/ep3.png' | relative_url }}"/>
 
+### This event has concluded!
+Checkout the livestream here: <a target=_blank class="external-link" href="https://youtu.be/bAO4uRdEoNM">https://youtu.be/bAO4uRdEoNM</a>
+
 ## Episode 3
 For the third episode we will have Prof. Natacha Crooks and chat with her about her experience!
 
