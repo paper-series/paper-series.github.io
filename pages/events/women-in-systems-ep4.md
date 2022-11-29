@@ -14,7 +14,7 @@ summary: For the fourth episode we will have Prof. Ana Klimovic and chat with he
 <img src="{{ 'assets/img/women-in-systems-ep4/ep4.png' | relative_url }}"/>
 
 ## Episode 4
-For the fourth episode we will have Prof. Natacha Crooks and chat with her about her experience!
+For the fourth episode we will have Prof. Ana Klimovic and chat with her about her experience!
 
 
 <!-- <div class="section-header">Submit your questions!</div>
@@ -44,7 +44,7 @@ For the fourth episode we will have Prof. Natacha Crooks and chat with her about
 ## Guest
 
 <div class="bio">
-<img class="headshot" src="about:blank" alt="Ana's Portrait"/>
+<img class="headshot" src="https://anakli.inf.ethz.ch/static/media/anaklimovic_photo_800_890.bfc4b113.jpg" alt="Ana's Portrait"/>
 
 <a target=_blank href="https://anakli.inf.ethz.ch/">Ana Klimovic</a><br>
 Coming soon!
