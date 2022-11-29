@@ -14,11 +14,11 @@ layout: default
 We are a small and independent group of students interested in organizing talks,
 podcasts, and panels that serve the students in the Systems community.
 
-{% include video-highlights.html %}
+{% include women-in-systems.html %}
 
 <br>
 
-{% include women-in-systems.html %}
+{% include video-highlights.html %}
 
 <br>
 

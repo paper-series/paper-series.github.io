@@ -26,12 +26,12 @@ For the fourth episode we will have Prof. Ana Klimovic and chat with her about h
 
 * When:
   * <div style="font-weight: bold;" class="time-fmt-local" data-start="1669914000" data-duration="3600" data-show-timezone-link="true"></div>
+* Please register on Eventbrite so we can reach out to you with the latest info
+  * <a href="https://www.eventbrite.com/e/women-in-systems-ep-4-tickets-477569261517" target=_blank class="external-link">Eventbrite</a>
 * Where:  
   * The session will be live on Zoom and streamed on YouTube.
-    * <a href="about:blank" target=_blank class="external-link">Zoom: TBA</a> 
-    * <a href="about:blank" target=_blank class="external-link">YouTube: TBA</a> 
-* Please register on Eventbrite so we can reach out to you with the latest info
-  * TBA <!-- <a href="https://bit.ly/oct10-session" target=_blank class="external-link">Eventbrite</a>  -->
+    * <a href="https://ucsd.zoom.us/j/92058909296" target=_blank class="external-link">Zoom</a> 
+    * <a href="https://youtu.be/xCoH8JlNkmM" target=_blank class="external-link">YouTube</a> 
 <hr>
 
 
