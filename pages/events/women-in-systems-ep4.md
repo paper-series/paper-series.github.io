@@ -47,7 +47,9 @@ For the fourth episode we will have Prof. Ana Klimovic and chat with her about h
 <img class="headshot" src="https://anakli.inf.ethz.ch/static/media/anaklimovic_photo_800_890.bfc4b113.jpg" alt="Ana's Portrait"/>
 
 <a target=_blank href="https://anakli.inf.ethz.ch/">Ana Klimovic</a><br>
-Coming soon!
+Prof. Klimovic is an Assistant Professor in the Department of Computer Science at ETH Zurich. Prof. Klimovic is a member of the ETH Systems Group, where she lead the Efficient Architectures and Systems Lab (EASL).
+
+Prof. Klimovic work on computer systems for large-scale applications such as cloud computing services, data analytics, and machine learning. The goal of Prof. Klimovic's research is to improve the performance and resource efficiency of cloud computing while making it easier for users to deploy and manage their applications. Prof. Klimovic's research interests span operating systems, computer architecture, and their intersection with machine learning.
 
 </div><br>
 
