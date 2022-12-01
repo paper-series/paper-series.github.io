@@ -4,7 +4,7 @@ guests: Prof. Ana Klimovic
 episode: 4
 layout: default
 tags: women-in-systems podcast
-categories: future-event wis
+categories: past-event wis
 when-happened: Mon, Dec 1 2022
 when-happened-epoch: 1669914000 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/women-in-systems-ep4/ep4.png

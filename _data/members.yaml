@@ -6,6 +6,12 @@
   active: true
   category: committee-member
   
+- name: Jingjie Li
+  photo: /assets/img/committee-membs/jli.jpg
+  website: https://www.jingjieli.me/
+  active: true
+  category: committee-member
+  
 - name: Sihang Liu
   photo: /assets/img/committee-membs/sliu.jpg
   website: https://www.sihangliu.com
