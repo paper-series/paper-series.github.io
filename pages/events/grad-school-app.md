@@ -3,7 +3,7 @@ title: Graduate School Applications
 layout: default
 categories: past-event
 when-happened: Oct 28, 2022
-when-happened-epoch: 1752410800 <!-- UNIX epoch, used for sorting -->
+when-happened-epoch: 1666944496 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/grad-school-app/banner.png
 summary: A tweet storm to answer common graduate school application questions.
 ---
