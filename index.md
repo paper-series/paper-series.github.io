@@ -11,7 +11,7 @@ layout: default
 
 
 ## {{ site.title }}
-We are a small and independent group of students interested in organizing talks,
+We are a small and independent group of people in systems organizing talks,
 podcasts, and panels that serve the students in the Systems community.
 
 {% include women-in-systems.html %}
