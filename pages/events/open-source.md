@@ -62,7 +62,7 @@ Lowe-Power is a Member of the ECE graduate group, and is Project management comm
 </div><br>
 
 <div class="bio">
-<img class="headshot" src="{{ 'assets/img/panel-oss/sarita.jpeg' | relative_url }}" alt="Sarita V. Adve's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/panel-oss/sarita.jpg' | relative_url }}" alt="Sarita V. Adve's Potrait"/>
 
 <a target=_blank href="https://sadve.cs.illinois.edu/">Sarita V. Adve | UIUC</a><br>
 

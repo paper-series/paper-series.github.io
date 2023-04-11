@@ -4,7 +4,7 @@ layout: default
 
 {% include start-banner.html %}
 <center>
-📢 Checkout the recent tweet storm on <a href="{{'/pages/events/grad-school-app.html' | relative_url}}">graduate school applications</a>!
+📢 Checkout the upcoming panel on <a href="{{'/pages/events/open-source.html' | relative_url}}">open source in academia</a>!
 </center>
 {% include end-banner.html %}
 <br>
