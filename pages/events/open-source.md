@@ -1,5 +1,5 @@
 ---
-title: Open Source in Academia
+title: Empowering Your Research with Open Source
 layout: default
 categories: past-event
 when-happened: Apr 27, 2023
@@ -10,7 +10,7 @@ summary: Panel discussion in open source in academia.
 
 <img src="{{ 'assets/img/panel-oss/panel-banner.png' | relative_url }}"/>
 
-## Open Source in Academia
+## Empowering Your Research with Open Source
 
 We are organizing a panel with researchers in the area of Computer Systems
 to talk about their experience in open-sourcing in academia.

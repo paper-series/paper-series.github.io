@@ -4,7 +4,7 @@ layout: default
 
 {% include start-banner.html %}
 <center>
-📢 Checkout the upcoming panel on <a href="{{'/pages/events/open-source.html' | relative_url}}">open source in academia</a>!
+📢 Checkout the upcoming panel on <a href="{{'/pages/events/open-source.html' | relative_url}}">empowering your research with open source</a>!
 </center>
 {% include end-banner.html %}
 <br>
