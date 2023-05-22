@@ -28,7 +28,7 @@ For the fifth episode we will have Prof. Natalie Enright Jerger and chat with he
   * <div style="font-weight: bold;" class="time-fmt-local" data-start="1685025000" data-duration="3600" data-show-timezone-link="true"></div>
 * Where:  
   * The session will be live on Zoom and streamed on YouTube.
-    * Zoom: <a href="https://ucsd.zoom.us/j/92058909296" target=_blank class="external-link">Register for free for the zoom link!</a>
+    * Zoom: <a href="https://www.eventbrite.com/e/women-in-systems-ep-5-with-prof-natalie-jerger-tickets-640328538897" target=_blank class="external-link">Register for free for the zoom link!</a>
     * <a href="https://youtube.com/live/0aw2XDUuKrw" target=_blank class="external-link">YouTube</a>
 <hr>
 
