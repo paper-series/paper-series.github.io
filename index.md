@@ -4,7 +4,7 @@ layout: default
 
 {% include start-banner.html %}
 <center>
-📢 Checkout the upcoming panel on <a href="{{'/pages/events/open-source.html' | relative_url}}">empowering your research with open source</a>!
+📢 Checkout the <a href="{{'/pages/events/women-in-systems-ep5.html' | relative_url}}">Episode 5 of Women in Systems</a>!
 </center>
 {% include end-banner.html %}
 <br>
