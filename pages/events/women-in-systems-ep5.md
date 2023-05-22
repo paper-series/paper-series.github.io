@@ -7,14 +7,14 @@ tags: women-in-systems podcast
 categories: past-event wis
 when-happened: Thu, May 25 2023
 when-happened-epoch: 1685025000 <!-- UNIX epoch, used for sorting -->
-preview-img: assets/img/women-in-systems-ep4/ep5.png
-summary: For the fourth episode we will have Prof. Natalie Enright Jerger and chat with her about her experience!
+preview-img: assets/img/women-in-systems-ep5/ep5.png
+summary: For the fifth episode we will have Prof. Natalie Enright Jerger and chat with her about her experience!
 ---
 
 <img src="{{ 'assets/img/women-in-systems-ep5/ep5.png' | relative_url }}"/>
 
 ## Episode 4
-For the fourth episode we will have Prof. Natalie Enright Jerger and chat with her about her experience!
+For the fifth episode we will have Prof. Natalie Enright Jerger and chat with her about her experience with computer architecture research, DEI, and leading the community and conferences!
 
 
 <!-- <div class="section-header">Submit your questions!</div>
@@ -26,12 +26,10 @@ For the fourth episode we will have Prof. Natalie Enright Jerger and chat with h
 
 * When:
   * <div style="font-weight: bold;" class="time-fmt-local" data-start="1685025000" data-duration="3600" data-show-timezone-link="true"></div>
-* Please register on Eventbrite so we can reach out to you with the latest info
-  * TBA <!-- * <a href="https://www.eventbrite.com/e/women-in-systems-ep-4-tickets-477569261517" target=_blank class="external-link">Eventbrite</a> -->
 * Where:  
   * The session will be live on Zoom and streamed on YouTube.
-    * TBA<!-- * <a href="https://ucsd.zoom.us/j/92058909296" target=_blank class="external-link">Zoom</a>  -->
-    * TBA <!-- * <a href="https://youtu.be/xCoH8JlNkmM" target=_blank class="external-link">YouTube</a>  -->
+    * Zoom: <a href="https://ucsd.zoom.us/j/92058909296" target=_blank class="external-link">Register for free for the zoom link!</a>
+    * <a href="https://youtube.com/live/0aw2XDUuKrw" target=_blank class="external-link">YouTube</a>
 <hr>
 
 
@@ -43,14 +41,13 @@ For the fourth episode we will have Prof. Natalie Enright Jerger and chat with h
 
 ## Guest
 
-<!-- <div class="bio">
-<img class="headshot" src="https://anakli.inf.ethz.ch/static/media/anaklimovic_photo_800_890.bfc4b113.jpg" alt="Ana's Portrait"/>
+<div class="bio">
+<img class="headshot" src="{{ '/assets/img/women-in-systems-ep5/NatalieEnrightJerger.jpg' | relative_url }}" alt="Natalie's Portrait"/>
 
-<a target=_blank href="https://anakli.inf.ethz.ch/">Ana Klimovic</a><br>
-Prof. Klimovic is an Assistant Professor in the Department of Computer Science at ETH Zurich. Prof. Klimovic is a member of the ETH Systems Group, where she lead the Efficient Architectures and Systems Lab (EASL).
-
-Prof. Klimovic work on computer systems for large-scale applications such as cloud computing services, data analytics, and machine learning. The goal of Prof. Klimovic's research is to improve the performance and resource efficiency of cloud computing while making it easier for users to deploy and manage their applications. Prof. Klimovic's research interests span operating systems, computer architecture, and their intersection with machine learning. -->
-
+<a target=_blank href="https://www.eecg.utoronto.ca/~enright/">Natalie Enright Jerger  </a><br>
+Natalie is a Professor at the University of Toronto's Electrical and Computer Engineering Department, joining in 2009. She completed her PhD in Computer Architecture from the University of Wisconsin-Madison and focuses on research in areas like computer systems, networks, and memory systems. Her work has been awarded by organizations such as the University of Toronto and the Alfred P. Sloan Foundation. In addition, she contributed to the book 'On-Chip Networks'.
+<p>
+Outside of her research, Natalie actively supports diversity in her field. She leads WICARCH, a group dedicated to helping women in computer architecture. She also writes about important topics like diversity on SIGARCH's Computer Architecture Today. From 2019 to 2021, she was a leading member of ACM's Council on Diversity and Inclusion, showing her dedication to promoting inclusion in her field.
 </div><br>
 
 <!-- <hr> -->
