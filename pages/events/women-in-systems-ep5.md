@@ -13,7 +13,7 @@ summary: For the fifth episode we will have Prof. Natalie Enright Jerger and cha
 
 <img src="{{ 'assets/img/women-in-systems-ep5/ep5.png' | relative_url }}"/>
 
-## Episode 4
+## Episode 5
 For the fifth episode we will have Prof. Natalie Enright Jerger and chat with her about her experience with computer architecture research, DEI, and leading the community and conferences!
 
 
@@ -46,7 +46,7 @@ For the fifth episode we will have Prof. Natalie Enright Jerger and chat with he
 
 <a target=_blank href="https://www.eecg.utoronto.ca/~enright/">Natalie Enright Jerger  </a><br>
 Natalie is a Professor at the University of Toronto's Electrical and Computer Engineering Department, joining in 2009. She completed her PhD in Computer Architecture from the University of Wisconsin-Madison and focuses on research in areas like computer systems, networks, and memory systems. Her work has been awarded by organizations such as the University of Toronto and the Alfred P. Sloan Foundation. In addition, she contributed to the book 'On-Chip Networks'.
-<p>
+<br>
 Outside of her research, Natalie actively supports diversity in her field. She leads WICARCH, a group dedicated to helping women in computer architecture. She also writes about important topics like diversity on SIGARCH's Computer Architecture Today. From 2019 to 2021, she was a leading member of ACM's Council on Diversity and Inclusion, showing her dedication to promoting inclusion in her field.
 </div><br>
 
