@@ -59,7 +59,7 @@ invited to join and ask questions! -->
 <a target=_blank href="http://www.cs.toronto.edu/~pekhimenko/">Gennady Pekhimenko | Co-Founder and CEO, CentML</a><br>
 
 Prof. Gennady Pekhimenko is a distinguished computer scientist and Assistant Professor at the University of Toronto, where he leads the EcoSystem research group, focusing on efficient computing systems and machine learning.
-
+<p>
 Prof. Pekhimenko also played a key role in starting CentML, which began as part of his lab at the University of Toronto.  As a co-founder and CEO of CentML, Pekhimenko is known for his expertise in machine learning systems, has a strong record of published papers, and has received several awards from companies like Google, Amazon, and Facebook.
 
 </div><br>
