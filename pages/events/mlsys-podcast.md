@@ -1,5 +1,5 @@
 ---
-title: Panel on MLSys&nbsp&nbsp&nbsp
+title: Panel on MLSys
 layout: default
 categories: future-event
 when-happened: June 26, 2022
