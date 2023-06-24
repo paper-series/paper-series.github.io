@@ -58,7 +58,9 @@ invited to join and ask questions! -->
 
 <a target=_blank href="http://www.cs.toronto.edu/~pekhimenko/">Gennady Pekhimenko | Co-Founder and CEO, CentML</a><br>
 
-...
+Prof. Gennady Pekhimenko is a distinguished computer scientist and Assistant Professor at the University of Toronto, where he leads the EcoSystem research group, focusing on efficient computing systems and machine learning.
+
+Prof. Pekhimenko also played a key role in starting CentML, which began as part of his lab at the University of Toronto.  As a co-founder and CEO of CentML, Pekhimenko is known for his expertise in machine learning systems, has a strong record of published papers, and has received several awards from companies like Google, Amazon, and Facebook.
 
 </div><br>
 
@@ -67,7 +69,7 @@ invited to join and ask questions! -->
 
 <a target=_blank href="https://naizhengtan.github.io/">Cheng Tan | Assistant Professor, Northeastern University</a><br>
 
-...
+Prof. Cheng Tan is an Assistant Professor at Khoury College of Computer Sciences, Northeastern University, and is also affiliated with the Systems Research Group at the university. His research interests are broad within computer systems, with a specific focus on developing systems that allow users to verify outsourced services. His recent work includes verifying the execution of applications on servers that may not be trusted, checking the behaviors of black-box databases, and verifying neural networks for systems. 
 
 </div><br>
 
