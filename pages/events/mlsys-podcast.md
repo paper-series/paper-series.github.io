@@ -1,11 +1,11 @@
 ---
-title: Panel on MLSys
+title: MLSys Podcast
 layout: default
 categories: future-event
 when-happened: June 26, 2022
 when-happened-epoch: 1687809600 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/mlsys-podcast/mlsys-podcast.png
-summary: Panel to help systems students looking to go into academia.
+summary: A panel on understanding Systems for ML
 ---
 
 <img src="{{ 'assets/img/mlsys-podcast/mlsys-podcast.png' | relative_url }}"/>
