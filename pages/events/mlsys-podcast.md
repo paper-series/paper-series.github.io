@@ -33,7 +33,7 @@ invited to join and ask questions! -->
 <hr>
 
 * When:
-  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1687809600" data-duration="3600" data-show-timezone-link="true"></div>
+  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1687788000" data-duration="3600" data-show-timezone-link="true"></div>
   <!-- <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MWsxa2swaGZlYWRoMDQ4aTIwZnZuOGtlOWIgeml3MDAyQGVuZy51Y3NkLmVkdQ&tmsrc=ziw002%40eng.ucsd.edu">Google Calendar <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a> -->
 * Where:
   * The session will be live on Zoom and streamed on YouTube. The recording will be available on YouTube and BiliBili
@@ -61,7 +61,7 @@ invited to join and ask questions! -->
 Prof. Gennady Pekhimenko is a distinguished computer scientist and Assistant Professor at the University of Toronto, where he leads the EcoSystem research group, focusing on efficient computing systems and machine learning.
 <p>
 Prof. Pekhimenko also played a key role in starting CentML, which began as part of his lab at the University of Toronto.  As a co-founder and CEO of CentML, Pekhimenko is known for his expertise in machine learning systems, has a strong record of published papers, and has received several awards from companies like Google, Amazon, and Facebook.
-
+</p>
 </div><br>
 
 <div class="bio">
