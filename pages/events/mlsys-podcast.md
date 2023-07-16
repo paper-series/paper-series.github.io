@@ -2,8 +2,8 @@
 title: MLSys Podcast
 layout: default
 categories: future-event
-when-happened: June 26, 2022
-when-happened-epoch: 1687809600 <!-- UNIX epoch, used for sorting -->
+when-happened: Aug 4, 2022
+when-happened-epoch: 1687788000 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/mlsys-podcast/mlsys-podcast.png
 summary: A panel on understanding Systems for ML
 ---
@@ -20,21 +20,11 @@ Meanwhile, checkout the livestream on YouTube: <a href="https://www.youtube.com/
 
 ## Discussion Panel on MLSys
 
-<!-- Panel on getting a job in academia.
-
-We are organizing a panel with senior students in the area of Computer Systems
-to talk about their experience on getting an academic jobs. The panel will
-specifically focus on students who are planning to get an academic jobs.
-
-The panel will be a one-hour live session with pre-sourced questions and live
-discussion. All students interested in getting an academic jobs in CS fields are
-invited to join and ask questions! -->
-
 <hr>
 
 * When:
+  <!-- Get unix timestamp at https://www.unixtimestamp.com/ -->
   * <div style="font-weight: bold;" class="time-fmt-local" data-start="1687788000" data-duration="3600" data-show-timezone-link="true"></div>
-  <!-- <a target=_blank class="text-small" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MWsxa2swaGZlYWRoMDQ4aTIwZnZuOGtlOWIgeml3MDAyQGVuZy51Y3NkLmVkdQ&tmsrc=ziw002%40eng.ucsd.edu">Google Calendar <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"/></a> -->
 * Where:
   * The session will be live on Zoom and streamed on YouTube. The recording will be available on YouTube and BiliBili
     * Zoom: TBA <!-- * <a class="external-link" href="https://ucsd.zoom.us/j/94923859045?pwd=Zkxic0FkNUpJWVZrY0FiMUV5aXg2Zz09" target=_blank>Join live on Zoom</a>   -->
