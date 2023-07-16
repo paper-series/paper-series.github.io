@@ -3,7 +3,7 @@ title: MLSys Podcast
 layout: default
 categories: future-event
 when-happened: Aug 4, 2022
-when-happened-epoch: 1687788000 <!-- UNIX epoch, used for sorting -->
+when-happened-epoch: 1691157600 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/mlsys-podcast/mlsys-podcast.png
 summary: A panel on understanding Systems for ML
 ---
@@ -24,7 +24,7 @@ Meanwhile, checkout the livestream on YouTube: <a href="https://www.youtube.com/
 
 * When:
   <!-- Get unix timestamp at https://www.unixtimestamp.com/ -->
-  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1687788000" data-duration="3600" data-show-timezone-link="true"></div>
+  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1691157600" data-duration="3600" data-show-timezone-link="true"></div>
 * Where:
   * The session will be live on Zoom and streamed on YouTube. The recording will be available on YouTube and BiliBili
     * Zoom: TBA <!-- * <a class="external-link" href="https://ucsd.zoom.us/j/94923859045?pwd=Zkxic0FkNUpJWVZrY0FiMUV5aXg2Zz09" target=_blank>Join live on Zoom</a>   -->
