@@ -26,19 +26,13 @@ Meanwhile, checkout the livestream on YouTube: <a href="https://www.youtube.com/
   <!-- Get unix timestamp at https://www.unixtimestamp.com/ -->
   * <div style="font-weight: bold;" class="time-fmt-local" data-start="1691157600" data-duration="3600" data-show-timezone-link="true"></div>
 * Where:
-  * The session will be live on Zoom and streamed on YouTube. The recording will be available on YouTube and BiliBili
-    * Zoom: TBA <!-- * <a class="external-link" href="https://ucsd.zoom.us/j/94923859045?pwd=Zkxic0FkNUpJWVZrY0FiMUV5aXg2Zz09" target=_blank>Join live on Zoom</a>   -->
-    * YouTube: TBA <!-- * <a href="https://youtu.be/mZeYJxIFD_s" target=_blank class="external-link">YouTube</a> -->
 * Please register on Eventbrite for the Zoom link
-  * <a target=_blank class="text-small" href="pages/events/getting-job-in-academia.md">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
+  * <a target=_blank class="text-small" href="https://www.eventbrite.com/e/panel-on-mlsys-tickets-681213436727">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
+  * The session will be live streamed on YouTube. The recording will be available on YouTube and BiliBili
+    * <a href="https://youtube.com/live/kmp7_2Ejv0A?feature=share" target=_blank class="external-link">YouTube</a> -->
 * Subscribe for future events
   * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
 <hr>
-
-<!-- <div class="section-header">Submit your questions!</div>
-<div class="section-content">
-    <iframe class="loading-white-bg" src="https://app.sli.do/event/t1mhZ27ECpwDXN4nEDpqTq" height="100%" width="100%" style="min-height: 560px;"></iframe>
-</div> -->
 
 ## Panelists
 *(Ordered by last name)*  
