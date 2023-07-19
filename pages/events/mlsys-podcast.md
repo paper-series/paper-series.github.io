@@ -28,8 +28,8 @@ Meanwhile, checkout the livestream on YouTube: <a href="https://www.youtube.com/
 * Where:
   * Please register on Eventbrite for the Zoom link
     * <a target=_blank class="text-small" href="https://www.eventbrite.com/e/panel-on-mlsys-tickets-681213436727">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
-    * The session will be live streamed on YouTube. The recording will be available on YouTube and BiliBili
-      * <a href="https://youtube.com/live/kmp7_2Ejv0A?feature=share" target=_blank class="external-link">YouTube</a>
+  * The session will be live streamed on YouTube. The recording will be available on YouTube and BiliBili
+    * <a href="https://youtube.com/live/kmp7_2Ejv0A?feature=share" target=_blank class="text-small external-link">YouTube</a>
 * Subscribe for future events
   * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
 <hr>
