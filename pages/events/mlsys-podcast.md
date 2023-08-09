@@ -1,7 +1,7 @@
 ---
 title: MLSys Podcast
 layout: default
-categories: future-event
+categories: past-event
 when-happened: Aug 4, 2022
 when-happened-epoch: 1691157600 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/mlsys-podcast/mlsys-podcast.png
