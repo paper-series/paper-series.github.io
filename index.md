@@ -25,3 +25,4 @@ podcasts, and panels that serve the students in the Systems community.
 {% include past-events.html %}
 
 <script src="{{ '/assets/js/redir.js' | relative_url }}"></script>
+euro
