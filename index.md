@@ -4,7 +4,7 @@ layout: default
 
 {% include start-banner.html %}
 <center>
-📢 Checkout the recent <a href="{{'/pages/events/mlsys-podcast.html' | relative_url}}">Podcast on MLSys</a>!
+📢 Checkout the upcoming panel on <a href="{{'/pages/events/getting-job-in-academia-2023.html' | relative_url}}">Getting a Job in Academia</a>!
 </center>
 {% include end-banner.html %}
 <br>
