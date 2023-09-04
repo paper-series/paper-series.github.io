@@ -2,7 +2,7 @@
 title: Getting a job in academia, 2023
 layout: default
 categories: future-event
-when-happened: Sept 22, 2023
+when-happened: Tenatative - Sept 12-22, 2023
 when-happened-epoch: 1658527200 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/panel-jobs/panel-banner.png
 summary: Panel to help systems students looking to go into academia.
