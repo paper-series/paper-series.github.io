@@ -28,5 +28,11 @@
   icon: fa-brands fa-twitch
   active: true
   color: 6441A5
+
+- name: LinkedIn
+  link: https://www.linkedin.com/company/90702149/
+  icon: fa-brands fa-linkedin
+  active: true
+  color: 6441A5
  
  
