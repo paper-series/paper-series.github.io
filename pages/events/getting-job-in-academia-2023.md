@@ -4,7 +4,7 @@ layout: default
 categories: future-event
 when-happened: Oct 18, 2023 11:30 Pacific
 when-happened-epoch: 1697653800 <!-- UNIX epoch, used for sorting -->
-preview-img: assets/img/panel-jobs/panel-banner.png
+preview-img: assets/img/panel-jobs-23/job-panel-banner.png
 summary: Panel to help systems students looking to go into academia.
 ---
 
