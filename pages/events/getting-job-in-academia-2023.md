@@ -2,8 +2,8 @@
 title: Getting a job in academia, 2023
 layout: default
 categories: future-event
-when-happened: Tenatative - Sept 12-22, 2023
-when-happened-epoch: 1658527200 <!-- UNIX epoch, used for sorting -->
+when-happened: Oct 18, 2023 11:30 Pacific
+when-happened-epoch: 1697628600 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/panel-jobs/panel-banner.png
 summary: Panel to help systems students looking to go into academia.
 ---
@@ -27,7 +27,7 @@ invited to join and ask questions!
 <hr>
 
 * When:
-  * Tenatative: Sept 12-22, 2023
+  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1697628600" data-duration="3600" data-show-timezone-link="true"></div>
 * Where:
   * The session will be live on Zoom and streamed on YouTube. The recording will be available on YouTube and BiliBili
     * Links TBA
@@ -43,8 +43,6 @@ invited to join and ask questions!
 
 ## Panelists
 *(Ordered by last name)*  
-
-<!-- TBA!
 
 <div class="bio">
 <img class="headshot" src="https://jren73.github.io/images/IMG_2884.JPG" alt="Jie Ren's Potrait"/>
@@ -92,7 +90,7 @@ George received his Ph.D in Computer Science from UC Santa Barbara. His disserta
 Qian is a postdoc at UCLA working with Prof. Miryung Kim. She got her Ph.D. from The Chinese University of Hong Kong in Dec. 2017, adviced by Prof. Johnny Qiang Xu. Her research lies at the intersection of software engineering, heterogeneous hardware design, and data-intensive scalable computing (DISC) systems. Currently, she is working on interactive human-in-the-loop design space exploration for heterogeneous computing with FPGAs, and an offloading runtime with input guard synthesis for heterogeneous computing.
 
 
-</div> -->
+</div>
 
 
 
