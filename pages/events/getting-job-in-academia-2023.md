@@ -3,7 +3,7 @@ title: Getting a job in academia, 2023
 layout: default
 categories: future-event
 when-happened: Oct 18, 2023 11:30 Pacific
-when-happened-epoch: 1697628600 <!-- UNIX epoch, used for sorting -->
+when-happened-epoch: 1697653800 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/panel-jobs/panel-banner.png
 summary: Panel to help systems students looking to go into academia.
 ---
@@ -27,7 +27,7 @@ invited to join and ask questions!
 <hr>
 
 * When:
-  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1697628600" data-duration="3600" data-show-timezone-link="true"></div>
+  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1697653800" data-duration="3600" data-show-timezone-link="true"></div>
 * Where:
   * The session will be live on Zoom and streamed on YouTube. The recording will be available on YouTube and BiliBili
     * Links TBA
@@ -45,53 +45,48 @@ invited to join and ask questions!
 *(Ordered by last name)*  
 
 <div class="bio">
-<img class="headshot" src="https://jren73.github.io/images/IMG_2884.JPG" alt="Jie Ren's Potrait"/>
+<img class="headshot" src="https://www.ece.utexas.edu/sites/default/files/portraits/John-Lizy.jpg" alt="Lizy K John's Potrait"/>
 
-<a target=_blank href="https://jren73.github.io/">Jie Ren | Soon: Asst. Professor at William & Marry</a><br>
+<a target=_blank href="https://www.ece.utexas.edu/people/faculty/lizy-john">Lizy John | Professor at UT Austin</a><br>
 
-Jie is currently a PhD candidate in the Parallel Architecture, System, and Algorithm Lab at the UC Merced supervised by Prof. Dong Li. Her research focuses on developing practical techniques to solve memory management issues in parallel computing systems, particularly in developing runtime support on heterogeneous memory systems.
-
-</div><br>
-
-<div class="bio">
-<img class="headshot" src="https://gururaj-s.github.io/assets/img/gs.jpg" alt="Gururaj Saileshwar's Potrait"/>
-
-<a target=_blank href="https://gururaj-s.github.io/">Gururaj Saileshwar | Soon: Asst. Professor at University of Toronto</a><br>
-
-Gururaj is a PhD candidate in ECE at Georgia Tech, USA, advised by Prof. Moinuddin Qureshi. His research interests in computer architecture and security include cache side-channels, transient execution attacks, Rowhammer attacks, DRAM integrity, memory safety and fuzzing.
+Prof. Lizy Kurian John is the Truchard Foundation Chair in Engineering at The University of Texas at Austin's ECE Department. With a Ph.D. from The Pennsylvania State University, her research spans computer architecture, multicore processors, and performance evaluation, garnering support from notable entities like NSF, DARPA, and major tech companies. She has contributed significantly to academia with 15 U.S. patents, numerous publications, and several co-authored and edited books. Recognized for her contributions, she has been named a Fellow of IEEE, the National Academy of Inventors, and the Association for Computing Machinery.
 
 
 </div><br>
 
 <div class="bio">
-<img class="headshot" src="{{ 'assets/img/panel-jobs/kazem.jpeg' | relative_url }}" alt="Kazem Taram's Potrait"/>
+<img class="headshot" src="https://marioskogias.github.io/img/me.jpg" alt="Marios Kogias's Potrait"/>
 
-<a target=_blank href="https://mktrm.github.io/">Kazem Taram | Soon: Purdue University</a><br>
+<a target=_blank href="https://marioskogias.github.io/">Marios Kogias | Asst. Professor at Imperial College London</a><br>
 
-Kazem is a PhD. candidate in the Department of Computer Science and Engineering (CSE) at the University of California San Diego (UCSD). He is advised by Dean Tullsen and his research interests are in computer architecture and computer security. In particular, he is interested in microarchitectural attacks and high-performance mitigations.
+He is an Assistant Professor at Imperial College London's Department of Computing and a visiting researcher at Microsoft Research Cambridge. Specializing in operating systems, networking, and distributed systems, he focuses on enhancing datacenter hardware capabilities. Before Imperial, he was with Microsoft Research and earned a distinguished PhD from EPFL in 2020. He began his studies in Electrical and Computer Engineering at NTUA.
+
+
 
 </div><br>
 
 <div class="bio">
-<img class="headshot" src="{{ 'assets/img/panel-jobs/gtzimpragos.jpg' | relative_url }}" alt="George Tzimpragos' Potrait"/>
+<img class="headshot" src="https://lh5.googleusercontent.com/cVf7A9_i9IRiKbmPKR4tWKQ1Ul-qaiXOMgmzIVvVcEz573NGiVSOnU7VxzZRoFNrSp5ZGN6bYWf8ub21cZzAQdHUDDEOGjtARDjkAUab-1agUfsl92rWWIpE81LHoJvH8g=w1280" alt="Kexin Pei's Potrait"/>
 
-<a target=_blank href="https://www.georgetzimpragos.com/">George Tzimpragos | Now: Asst. Professor at University of Michigan</a><br>
+<a target=_blank href="https://sites.google.com/site/kexinpeisite/">Kexin Pei | Soon: Asst. Prof. University of Chicago</a><br>
 
-George received his Ph.D in Computer Science from UC Santa Barbara. His dissertation was on the development, formalization, and deployment of a neuro-inspired temporal paradigm for in-sensor processing and superconducting computing.
+Kexin Pei is soon to become the Neubauer Family Assistant Professor at the University of Chicago's Department of Computer Science. After earning his PhD from Columbia University, he delved deep into Security, Software Engineering, and Machine Learning. His work focuses on using data to improve the safety and reliability of both regular and AI-based software. He's especially keen on creating machine learning tools that can spot and fix software issues and weaknesses.
+
 
 </div><br>
 
-
 <div class="bio">
-<img class="headshot" src="{{ 'assets/img/panel-jobs/qian.jpg' | relative_url }}" alt="Qian Zhang's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/committee-membs/dustiugov.jpg' | relative_url }}" alt="Dmitrii Ustiugov' Potrait"/>
 
-<a target=_blank href="http://web.cs.ucla.edu/~zhangqian/">Qian Zhang | Soon: Asst. Professor at UC Riverside</a><br>
+<a target=_blank href="https://www.georgetzimpragos.com/">Dmitrii Ustiugov | Asst. Professor at Nanyang Technological University (NTU) Singapore</a><br>
 
-Qian is a postdoc at UCLA working with Prof. Miryung Kim. She got her Ph.D. from The Chinese University of Hong Kong in Dec. 2017, adviced by Prof. Johnny Qiang Xu. Her research lies at the intersection of software engineering, heterogeneous hardware design, and data-intensive scalable computing (DISC) systems. Currently, she is working on interactive human-in-the-loop design space exploration for heterogeneous computing with FPGAs, and an offloading runtime with input guard synthesis for heterogeneous computing.
+Dmitrii Ustiugov is an Assistant Professor at Nanyang Technological University (NTU), Singapore, specializing in computer systems and architecture. His expertise lies in creating fast, scalable, and efficient cloud systems, with current projects focusing on cloud and serverless architectures and system support for Machine Learning. He spearheads the vHive open-source initiative, a platform for serverless experimentation, adopted by 30+ academic and 8+ industry entities. He earned his PhD in Computer Science from the University of Edinburgh, later serving as a Postdoctoral Researcher at ETH Zurich under Prof. Ana Klimovic.
 
 
-</div>
 
+
+
+</div><br>
 
 
 <!-- <hr> -->
