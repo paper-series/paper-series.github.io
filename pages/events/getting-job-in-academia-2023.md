@@ -32,6 +32,9 @@ invited to join and ask questions!
   * Please register on Eventbrite for the Zoom link
     * <a target=_blank class="text-small" href="https://www.eventbrite.com/e/getting-a-job-in-academia-2023-studentssystems-tickets-736259581227">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
     <!-- * <a href="https://youtube.com/live/xKPTOUah_wo" target=_blank class="text-small external-link">YouTube</a> -->
+* Discussion topics:
+  * Check out our <a href="{{ 'assets/img/panel-jobs-23/job-panel-flyer.pdf' | relative_url }}">curated discussion topics</a>
+  * And post your questions on this website.
 * Subscribe for future events
   * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
 <hr>
@@ -40,6 +43,8 @@ invited to join and ask questions!
 <div class="section-content">
     <iframe class="loading-white-bg" src="https://app.sli.do/event/t1mhZ27ECpwDXN4nEDpqTq" height="100%" width="100%" style="min-height: 560px;"></iframe>
 </div>
+
+<hr>
 
 ## Panelists
 *(Ordered by last name)*  
@@ -76,18 +81,26 @@ Kexin Pei is soon to become the Neubauer Family Assistant Professor at the Unive
 </div><br>
 
 <div class="bio">
-<img class="headshot" src="{{ 'assets/img/committee-membs/dustiugov.jpg' | relative_url }}" alt="Dmitrii Ustiugov' Potrait"/>
+<img class="headshot" src="{{ 'assets/img/committee-membs/dustiugov.jpg' | relative_url }}" alt="Dmitrii Ustiugov's Potrait"/>
 
 <a target=_blank href="https://www.georgetzimpragos.com/">Dmitrii Ustiugov | Asst. Professor at Nanyang Technological University (NTU) Singapore</a><br>
 
 Dmitrii Ustiugov is an Assistant Professor at Nanyang Technological University (NTU), Singapore, specializing in computer systems and architecture. His expertise lies in creating fast, scalable, and efficient cloud systems, with current projects focusing on cloud and serverless architectures and system support for Machine Learning. He spearheads the vHive open-source initiative, a platform for serverless experimentation, adopted by 30+ academic and 8+ industry entities. He earned his PhD in Computer Science from the University of Edinburgh, later serving as a Postdoctoral Researcher at ETH Zurich under Prof. Ana Klimovic.
 
 
-
-
-
 </div><br>
 
+<hr>
+
+## Panel Host
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/committee-membs/zxwang.jpg' | relative_url }}" alt="Zixuan Wang's Potrait"/>
+
+<a target=_blank href="https://www.thenetadmin.net/">Zixuan Wang | PhD Candidate at UCSD, on academic job market this year</a><br>
+
+Zixuan Wang is a PhD candidate at UC San Diego, working with Jishen Zhao and Steven Swanson. He's research is on building scalable, secure, and easy-to-use systems, with current projects focusing on improving system security and scalability with emerging memory technologies. His industrial expertises are on trusted computation, with a focus on confidential virtual machine technologies.
+
+</div>
 
 <!-- <hr> -->
 <br>
