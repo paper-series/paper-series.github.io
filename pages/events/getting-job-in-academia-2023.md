@@ -29,10 +29,9 @@ invited to join and ask questions!
 * When:
   * <div style="font-weight: bold;" class="time-fmt-local" data-start="1697653800" data-duration="3600" data-show-timezone-link="true"></div>
 * Where:
-  * The session will be live on Zoom and streamed on YouTube. The recording will be available on YouTube and BiliBili
   * Please register on Eventbrite for the Zoom link
     * <a target=_blank class="text-small" href="https://www.eventbrite.com/e/getting-a-job-in-academia-2023-studentssystems-tickets-736259581227">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
-    * <a href="https://youtube.com/live/xKPTOUah_wo" target=_blank class="text-small external-link">YouTube</a>
+    <!-- * <a href="https://youtube.com/live/xKPTOUah_wo" target=_blank class="text-small external-link">YouTube</a> -->
 * Please check back later to register on Eventbrite so we can reach out to you with the latest info
 * Subscribe for future events
   * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
