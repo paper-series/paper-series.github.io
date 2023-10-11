@@ -96,9 +96,11 @@ Dmitrii Ustiugov is an Assistant Professor at Nanyang Technological University (
 <div class="bio">
 <img class="headshot" src="{{ 'assets/img/committee-membs/zxwang.jpg' | relative_url }}" alt="Zixuan Wang's Potrait"/>
 
-<a target=_blank href="https://www.thenetadmin.net/">Zixuan Wang | PhD Candidate at UCSD, on academic job market this year</a><br>
+<a target=_blank href="https://www.thenetadmin.net/">Zixuan Wang | PhD Candidate at UCSD, on the academic job market this year</a><br>
 
-Zixuan Wang is a PhD candidate at UC San Diego, working with Jishen Zhao and Steven Swanson. He's research is on building scalable, secure, and easy-to-use systems, with current projects focusing on improving system security and scalability with emerging memory technologies. His industrial expertises are on trusted computation, with a focus on confidential virtual machine technologies.
+Zixuan Wang is a PhD candidate at UC San Diego, working with Jishen Zhao and Steven Swanson. His research focuses on building scalable, secure, and easy-to-use systems. Currently, his projects center on enhancing system security and scalability using emerging memory technologies. His industrial expertise lies in trusted computation, specifically in confidential virtual machine technologies.
+
+Zixuan will host the panel discussion for this event. Please contact him with any concerns.
 
 </div>
 
