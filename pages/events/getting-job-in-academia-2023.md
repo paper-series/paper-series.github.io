@@ -66,7 +66,7 @@ He is an Assistant Professor at Imperial College London's Department of Computin
 </div><br>
 
 <div class="bio">
-<img class="headshot" src="https://lh5.googleusercontent.com/cVf7A9_i9IRiKbmPKR4tWKQ1Ul-qaiXOMgmzIVvVcEz573NGiVSOnU7VxzZRoFNrSp5ZGN6bYWf8ub21cZzAQdHUDDEOGjtARDjkAUab-1agUfsl92rWWIpE81LHoJvH8g=w1280" alt="Kexin Pei's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/panel-jobs-23/kpei.jpg' | relative_url }}" alt="Kexin Pei's Potrait"/>
 
 <a target=_blank href="https://sites.google.com/site/kexinpeisite/">Kexin Pei | Soon: Asst. Prof. University of Chicago</a><br>
 
