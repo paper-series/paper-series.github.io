@@ -83,7 +83,7 @@ Kexin Pei is soon to become the Neubauer Family Assistant Professor at the Unive
 <div class="bio">
 <img class="headshot" src="{{ 'assets/img/committee-membs/dustiugov.jpg' | relative_url }}" alt="Dmitrii Ustiugov's Potrait"/>
 
-<a target=_blank href="https://www.georgetzimpragos.com/">Dmitrii Ustiugov | Asst. Professor at Nanyang Technological University (NTU) Singapore</a><br>
+<a target=_blank href="https://ustiugov.github.io/">Dmitrii Ustiugov | Asst. Professor at Nanyang Technological University (NTU) Singapore</a><br>
 
 Dmitrii Ustiugov is an Assistant Professor at Nanyang Technological University (NTU), Singapore, specializing in computer systems and architecture. His expertise lies in creating fast, scalable, and efficient cloud systems, with current projects focusing on cloud and serverless architectures and system support for Machine Learning. He spearheads the vHive open-source initiative, a platform for serverless experimentation, adopted by 30+ academic and 8+ industry entities. He earned his PhD in Computer Science from the University of Edinburgh, later serving as a Postdoctoral Researcher at ETH Zurich under Prof. Ana Klimovic.
 
