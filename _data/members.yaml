@@ -25,6 +25,13 @@
   category: committee-member
 
 
+- name: Bhumika Mittal
+  photo: /assets/img/committee-membs/bmittal.jpg
+  website: https://bhumikamittal.in
+  active: true
+  category: committee-member
+
+
 - name: Dmitrii Ustiugov
   photo: /assets/img/committee-membs/dustiugov.jpg
   active: true
