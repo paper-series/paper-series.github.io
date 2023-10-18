@@ -31,7 +31,7 @@ invited to join and ask questions!
 * Where:
   * Please register on Eventbrite for the Zoom link
     * <a target=_blank class="text-small" href="https://www.eventbrite.com/e/getting-a-job-in-academia-2023-studentssystems-tickets-736259581227">Eventbrite <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Eventbrite_Logo.svg"/></a>
-    <!-- * <a href="https://youtube.com/live/xKPTOUah_wo" target=_blank class="text-small external-link">YouTube</a> -->
+    * <a href="https://www.youtube.com/watch?v=xKPTOUah_wo" target=_blank class="text-small external-link">YouTube</a>
 * Discussion topics:
   * Check out our <a href="{{ 'assets/img/panel-jobs-23/job-panel-flyer.pdf' | relative_url }}">curated discussion topics</a>
   * And post your questions on this website.
