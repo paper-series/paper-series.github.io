@@ -26,13 +26,17 @@
 - name: Twitch
   link: https://www.twitch.tv/studentssystems
   icon: fa-brands fa-twitch
-  active: true
+  active: false
   color: 6441A5
 
 - name: LinkedIn
   link: https://www.linkedin.com/company/90702149/
   icon: fa-brands fa-linkedin
   active: true
-  color: 6441A5
- 
- 
+  color: 0077b5
+
+- name: Spotify
+  link: https://podcasters.spotify.com/pod/show/students-at-systems
+  icon: fa-brands fa-spotify
+  active: true
+  color: 1DB954

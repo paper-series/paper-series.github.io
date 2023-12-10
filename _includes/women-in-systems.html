@@ -1,14 +1,17 @@
 <div class="wis-events-wrapper">
   <h2>Women in Systems: Podcast Series</h2>
   <p>
-
+    <a target="_blank" href="https://podcasters.spotify.com/pod/show/students-at-systems"><img class="podcast-badge" src="{{ 'assets/img/social/listen-on-spotify.png' | relative_url }}"/></a>
+  </p>
+  <p>
+  
     {% 
     assign sortedEvents = site.pages 
     | sort:"when-happened-epoch" 
     | reverse
     | where_exp: "item", "item.categories contains 'wis'"
     %}
-
+  
   <div class="event-preview-container">
     {% for page in sortedEvents %}
     <div class="event-preview-small">
@@ -17,15 +20,16 @@
       <a href="{{ page.url | relative_url }}">
         <img class="event-thumbnail-img-small" src="{{ page.preview-img | relative_url }}" alt="{{page.title}} thumbnail image">
       </a>
-
+  
       <!-- <div class="event-preview-small-summary">
         {{ page.summary }}
       </div> -->
     </div>
-
+  
   {% endfor %}
   </div>
   <br>
-
+  
   </p>
-</div>
+  </div>
+  
