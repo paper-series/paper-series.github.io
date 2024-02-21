@@ -15,7 +15,7 @@
 - name: Sihang Liu
   photo: /assets/img/committee-membs/sliu.jpg
   website: https://www.sihangliu.com
-  active: true
+  active: false
   category: committee-member
 
 - name: Suyash Mahar
@@ -28,7 +28,7 @@
 - name: Bhumika Mittal
   photo: /assets/img/committee-membs/bmittal.jpg
   website: https://bhumikamittal.in
-  active: true
+  active: false
   category: committee-member
 
 
