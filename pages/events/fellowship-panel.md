@@ -27,7 +27,8 @@ invited to join and ask questions!
 * When:
   * Late April
 * Where:
-  * To be announced
+  * <a href="https://lu.ma/event/evt-N1dK2eEFY6meyHx" class="luma-checkout--button" data-luma-action="checkout" data-luma-event-id="evt-N1dK2eEFY6meyHx"> Register for Event</a>
+
 * Subscribe for future events
   * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
 <hr>
@@ -111,3 +112,5 @@ Yang Zhou is a final-year Ph.D. candidate in Computer Science at Harvard Univers
 </div>
 <br>
 
+
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
