@@ -42,7 +42,64 @@ invited to join and ask questions!
 ## Panelists
 *(Ordered by last name)*  
 
-<i>To be announced</i>
+
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/fellowship-panel/sahmed.jpg' | relative_url }}" alt="Shimaa Ahmed's Potrait"/>
+
+<a target=_blank href="https://shimaaahmed.github.io/">Shimaa Ahmed | Researcher at Visa Research</a><br>
+
+<div class="bio-badge">
+  <img class="bio-badge-img" src="{{ 'assets/img/fellowship-panel/medal.png' | relative_url }}"/>
+  <a class='bio-badge-txt'>EECS Rising Star 2023</a>
+</div><br>
+
+Shimaa's research experience includes work on speech-related machine learning models such as speech recognition, keyword spotting, voice cloning, and speaker identification, and generative AI for image generation and manipulation for face recognition applications, and LLMs governance. I also have experience on privacy-preserving techniques such as differential privacy and training on private data.
+</div><br>
+
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/fellowship-panel/wguo.jpg' | relative_url }}" alt="Wenbo Guo's Potrait"/>
+
+<a target=_blank href="https://henrygwb.github.io/">Wenbo Guo | Prof. at UC Santa Barbara</a><br>
+
+<div class="bio-badge">
+  <img class="bio-badge-img" src="{{ 'assets/img/fellowship-panel/medal.png' | relative_url }}"/>
+  <a class='bio-badge-txt'>IBM Fellowship 2020</a>
+</div><br>
+
+Prof. Guo is currently with the department of computer science at UCSB. His research interest lies in intersection of computer security and machine learning.
+
+</div><br>
+
+
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/fellowship-panel/ywang.jpg' | relative_url }}" alt="Yuke Wang's Potrait"/>
+
+<a target=_blank href="https://www.wang-yuke.com/">Yuke Wang | PhD Student at UC Santa Barbara</a><br>
+
+<div class="bio-badge">
+  <img class="bio-badge-img" src="{{ 'assets/img/fellowship-panel/medal.png' | relative_url }}"/>
+  <a class='bio-badge-txt'>NVIDIA Fellowship 2022-23</a>
+</div><br>
+
+Yuke Wang is a final-year Doctor of Philosophy (Ph.D.) candidate in the Department of computer science at the University of California, Santa Barbara (UCSB). He got his Bachelor of Engineering (B.E.) in software engineering from the University of Electronic Science and Technology of China (UESTC) in 2018.
+</div><br>
+
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/fellowship-panel/yzhou.jpg' | relative_url }}" alt="Yang Zhou's Potrait"/>
+
+<a target=_blank href="https://yangzhou1997.github.io/">Yang Zhou | PhD Student at Harvard</a><br>
+
+<div class="bio-badge">
+  <img class="bio-badge-img" src="{{ 'assets/img/fellowship-panel/medal.png' | relative_url }}"/>
+  <a class='bio-badge-txt'>Google PhD Fellowship 2022</a>
+</div><br>
+
+Yang Zhou is a final-year Ph.D. candidate in Computer Science at Harvard University, advised by Prof. Minlan Yu and Prof. James Mickens. He received a B.S. in Computer Science at Peking University in 2018, working with Prof. Tong Yang on probabilistic data structures for network telemetry. He is supported by a Google PhD Fellowship in Systems and Networking.
+
+</div><br>
+
+
+
 
 
 <!-- <hr> -->
