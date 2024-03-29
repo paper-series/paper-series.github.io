@@ -16,8 +16,7 @@ summary: A panel with senior students in the area of Computer Systems to talk ab
 <p>
 <b style="color: maroon; font-size: 1.4em;">Update</b>
 <hr style="width: 4em; background-color: maroon;">
-This event has concluded. We'll update this page with recordings soon.<br>
-Meanwhile, checkout the livestream on YouTube: <a href="https://youtu.be/fDTzyUGGuh8">https://youtu.be/fDTzyUGGuh8</a>
+This event has concluded, checkout the livestream on YouTube! <a href="https://youtu.be/fDTzyUGGuh8">https://youtu.be/fDTzyUGGuh8</a>
 </p>
 <hr>
 
