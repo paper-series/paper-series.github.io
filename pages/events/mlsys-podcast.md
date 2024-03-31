@@ -38,7 +38,7 @@ Meanwhile, checkout the livestream on YouTube: <a href="https://www.youtube.com/
 *(Ordered by last name)*  
 
 <div class="bio">
-<img class="headshot" src="https://media.licdn.com/dms/image/D5603AQFCT3KR5_j4lA/profile-displayphoto-shrink_800_800/0/1682432511344?e=2147483647&v=beta&t=VLZR8IeHboGZyCK_lAvC_qiLkQmLiIu1ejyi7qRtdNQ" alt="Gennady Pekhimenko's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/mlsys-podcast/gpekhimenko.jpg' | relative_url }}" alt="Gennady Pekhimenko's Potrait"/>
 
 <a target=_blank href="http://www.cs.toronto.edu/~pekhimenko/">Gennady Pekhimenko | Co-Founder and CEO, CentML</a><br>
 
@@ -49,7 +49,7 @@ Prof. Pekhimenko also played a key role in starting CentML, which began as part 
 </div><br>
 
 <div class="bio">
-<img class="headshot" src="https://naizhengtan.github.io/doc/info/cheng_19_NYU.JPG" alt="Cheng Tan's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/mlsys-podcast/ctan.jpg' | relative_url }}" alt="Cheng Tan's Potrait"/>
 
 <a target=_blank href="https://naizhengtan.github.io/">Cheng Tan | Assistant Professor, Northeastern University</a><br>
 
