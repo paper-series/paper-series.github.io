@@ -3,7 +3,7 @@ title: A Panel on Fellowships, 2023
 layout: default
 categories: future-event
 when-happened: Late Apr, 2024 (Tentative)
-when-happened-epoch: 1714122000 <!-- UNIX epoch, used for sorting -->
+when-happened-epoch: 1714165200 <!-- UNIX epoch, used for sorting -->
 # preview-img: assets/img/panel-jobs-23/job-panel-banner.png
 summary: Panel to help grad students apply for fellowships.
 ---
@@ -25,7 +25,7 @@ invited to join and ask questions!
 <hr>
 
 * When:
-  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1714122000" data-duration="3600" data-show-timezone-link="true"></div>
+  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1714165200" data-duration="3600" data-show-timezone-link="true"></div>
 
 * Where:
   * <a href="https://lu.ma/event/evt-N1dK2eEFY6meyHx" class="luma-checkout--button" data-luma-action="checkout" data-luma-event-id="evt-N1dK2eEFY6meyHx"> Register for Event</a>
