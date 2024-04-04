@@ -3,7 +3,7 @@ title: A Panel on Fellowships, 2023
 layout: default
 categories: future-event
 when-happened: Late Apr, 2024 (Tentative)
-when-happened-epoch: 1713631307 <!-- UNIX epoch, used for sorting -->
+when-happened-epoch: 1714122000 <!-- UNIX epoch, used for sorting -->
 # preview-img: assets/img/panel-jobs-23/job-panel-banner.png
 summary: Panel to help grad students apply for fellowships.
 ---
@@ -25,7 +25,8 @@ invited to join and ask questions!
 <hr>
 
 * When:
-  * Late April
+  * <div style="font-weight: bold;" class="time-fmt-local" data-start="1714122000" data-duration="3600" data-show-timezone-link="true"></div>
+
 * Where:
   * <a href="https://lu.ma/event/evt-N1dK2eEFY6meyHx" class="luma-checkout--button" data-luma-action="checkout" data-luma-event-id="evt-N1dK2eEFY6meyHx"> Register for Event</a>
 
@@ -57,7 +58,7 @@ invited to join and ask questions!
 Shimaa's research experience includes work on speech-related machine learning models such as speech recognition, keyword spotting, voice cloning, and speaker identification, and generative AI for image generation and manipulation for face recognition applications, and LLMs governance. I also have experience on privacy-preserving techniques such as differential privacy and training on private data.
 </div><br>
 
-<div class="bio">
+<!-- <div class="bio">
 <img class="headshot" src="{{ 'assets/img/fellowship-panel/wguo.jpg' | relative_url }}" alt="Wenbo Guo's Potrait"/>
 
 <a target=_blank href="https://henrygwb.github.io/">Wenbo Guo | Prof. at UC Santa Barbara</a><br>
@@ -69,7 +70,7 @@ Shimaa's research experience includes work on speech-related machine learning mo
 
 Prof. Guo is currently with the department of computer science at UCSB. His research interest lies in intersection of computer security and machine learning.
 
-</div><br>
+</div><br> -->
 
 
 <div class="bio">
@@ -83,6 +84,20 @@ Prof. Guo is currently with the department of computer science at UCSB. His rese
 </div><br>
 
 Yuke Wang is a final-year Doctor of Philosophy (Ph.D.) candidate in the Department of computer science at the University of California, Santa Barbara (UCSB). He got his Bachelor of Engineering (B.E.) in software engineering from the University of Electronic Science and Technology of China (UESTC) in 2018.
+</div><br>
+
+<div class="bio">
+<img class="headshot" src="{{ 'assets/img/fellowship-panel/mzhao.jpg' | relative_url }}" alt="Mark Zhao's Potrait"/>
+
+<a target=_blank href="https://web.stanford.edu/~myzhao/">Mark Zhao | Ph.D. Candidate at Stanford University</a><br>
+
+<div class="bio-badge">
+  <img class="bio-badge-img" src="{{ 'assets/img/fellowship-panel/medal.png' | relative_url }}"/>
+  <a class='bio-badge-txt'>Meta PhD Felloship 2023</a>
+</div><br>
+
+Mark Zhao's research centers around designing systems to improve the scalability, performance, and security of datacenter-scale applications such as machine learning. He is currently building systems that enable large-scale machine learning training and serving pipelines.
+
 </div><br>
 
 <div class="bio">
