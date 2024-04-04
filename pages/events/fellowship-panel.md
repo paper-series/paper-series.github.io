@@ -87,7 +87,7 @@ Yuke Wang is a final-year Doctor of Philosophy (Ph.D.) candidate in the Departme
 </div><br>
 
 <div class="bio">
-<img class="headshot" src="{{ 'assets/img/fellowship-panel/mzhao.jpg' | relative_url }}" alt="Mark Zhao's Potrait"/>
+<img class="headshot" src="{{ 'assets/img/fellowship-panel/mzhao.png' | relative_url }}" alt="Mark Zhao's Potrait"/>
 
 <a target=_blank href="https://web.stanford.edu/~myzhao/">Mark Zhao | Ph.D. Candidate at Stanford University</a><br>
 
