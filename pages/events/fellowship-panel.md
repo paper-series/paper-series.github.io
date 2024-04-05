@@ -34,10 +34,10 @@ invited to join and ask questions!
   * <a target=_blank class="text-small" href="https://groups.google.com/g/students-systems">Mailing List <img class="line-height" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Android_Email_4.0_Icon.png"/></a>
 <hr>
 
-<!-- <div class="section-header">Submit your questions!</div>
+<div class="section-header">Submit your questions!</div>
 <div class="section-content">
-    <iframe class="loading-white-bg" src="https://app.sli.do/event/t1mhZ27ECpwDXN4nEDpqTq" height="100%" width="100%" style="min-height: 560px;"></iframe>
-</div> -->
+<iframe src="https://app.sli.do/event/wW7HdLpQdRSBRhKJrfF1EZ" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+</div>
 
 <hr>
 
