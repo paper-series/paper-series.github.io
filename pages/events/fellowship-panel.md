@@ -2,7 +2,7 @@
 title: A Panel on Fellowships, 2023
 layout: default
 categories: future-event
-when-happened: Late Apr, 2024 (Tentative)
+when-happened: Apr 26, 2024
 when-happened-epoch: 1714165200 <!-- UNIX epoch, used for sorting -->
 preview-img: assets/img/fellowship-panel/fellowship-panel.png
 summary: Panel to help grad students apply for fellowships.
