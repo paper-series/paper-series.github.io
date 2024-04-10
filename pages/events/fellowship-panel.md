@@ -1,5 +1,5 @@
 ---
-title: A Panel on Fellowships, 2023
+title: A Panel on Fellowships, 2024
 layout: default
 categories: future-event
 when-happened: Apr 26, 2024
