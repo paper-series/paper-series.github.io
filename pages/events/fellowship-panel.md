@@ -4,12 +4,12 @@ layout: default
 categories: future-event
 when-happened: Late Apr, 2024 (Tentative)
 when-happened-epoch: 1714165200 <!-- UNIX epoch, used for sorting -->
-# preview-img: assets/img/panel-jobs-23/job-panel-banner.png
+preview-img: assets/img/fellowship-panel/fellowship-panel.png
 summary: Panel to help grad students apply for fellowships.
 ---
 
 <!-- TODO: Add banner when we have panelists -->
-<!-- <img src="{{ 'assets/img/panel-jobs-23/job-panel-banner.png' | relative_url }}"/> -->
+<img src="{{ 'assets/img/fellowship-panel/fellowship-panel.png' | relative_url }}"/>
 
 <hr>
 
