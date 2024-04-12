@@ -83,7 +83,9 @@ Prof. Guo is currently with the department of computer science at UCSB. His rese
   <a class='bio-badge-txt'>NVIDIA Fellowship 2022-23</a>
 </div><br>
 
-Yuke Wang is a final-year Doctor of Philosophy (Ph.D.) candidate in the Department of computer science at the University of California, Santa Barbara (UCSB). He got his Bachelor of Engineering (B.E.) in software engineering from the University of Electronic Science and Technology of China (UESTC) in 2018.
+&nbsp;<a href="{{ 'assets/uploads/fellowship-panel/ywang_research_statement.pdf' | relative_url }}"><i class="fa-regular fa-file-pdf"></i> Research Statement</a><br>
+
+Yuke Wang is a final-year Doctor of Philosophy (Ph.D.) candidate in the Department of computer science at the University of California, Santa Barbara (UCSB). He got his Bachelor of Engineering (B.E.) in software engineering from the University of Electronic Science and Technology of China (UESTC) in 2018. 
 </div><br>
 
 <div class="bio">
@@ -109,6 +111,8 @@ Mark Zhao's research centers around designing systems to improve the scalability
   <img class="bio-badge-img" src="{{ 'assets/img/fellowship-panel/medal.png' | relative_url }}"/>
   <a class='bio-badge-txt'>Google PhD Fellowship 2022</a>
 </div><br>
+
+&nbsp;<a href="https://yangzhou1997.github.io/materials/google_fellowship_cv_rs.pdf"><i class="fa-regular fa-file-pdf"></i> Research Statement</a><br>
 
 Yang Zhou is a final-year Ph.D. candidate in Computer Science at Harvard University, advised by Prof. Minlan Yu and Prof. James Mickens. He received a B.S. in Computer Science at Peking University in 2018, working with Prof. Tong Yang on probabilistic data structures for network telemetry. He is supported by a Google PhD Fellowship in Systems and Networking.
 
