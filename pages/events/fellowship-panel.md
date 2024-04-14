@@ -42,7 +42,7 @@ invited to join and ask questions!
 <hr>
 
 ## Research Statements
-Our panelists have gracefully provided research statements they used for their applications!
+Our panelists have graciously provided research statements they used for their applications!
 
 <ol>
 <li><a href="{{ 'assets/uploads/fellowship-panel/ywang_research_statement.pdf' | relative_url }}"><i class="fa-regular fa-file-pdf"></i> Yuke Wang</a></li>
