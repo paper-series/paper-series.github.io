@@ -45,6 +45,7 @@ invited to join and ask questions!
 Our panelists have graciously provided research statements they used for their applications!
 
 <ol>
+<li><a href="{{ 'assets/uploads/fellowship-panel/sahmed_research_statement.pdf' | relative_url }}"><i class="fa-regular fa-file-pdf"></i> Shimaa Ahmed</a></li>
 <li><a href="{{ 'assets/uploads/fellowship-panel/ywang_research_statement.pdf' | relative_url }}"><i class="fa-regular fa-file-pdf"></i> Yuke Wang</a></li>
 <li><a href="https://yangzhou1997.github.io/materials/google_fellowship_cv_rs.pdf"><i class="fa-regular fa-file-pdf"></i> Yang Zhou</a><br>
 </li>
