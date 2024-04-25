@@ -28,8 +28,7 @@ invited to join and ask questions!
   * <div style="font-weight: bold;" class="time-fmt-local" data-start="1714165200" data-duration="3600" data-show-timezone-link="true"></div>
 
 * Where:
-  * <a href="https://lu.ma/event/evt-N1dK2eEFY6meyHx" class="luma-checkout--button" data-luma-action="checkout" data-luma-event-id="evt-N1dK2eEFY6meyHx"> Register for Event</a>
-  * <a href="https://columbiauniversity.zoom.us/j/94194654904">Zoom</a>
+  * For the zoom link, register for free! <a href="https://lu.ma/event/evt-N1dK2eEFY6meyHx" class="luma-checkout--button" data-luma-action="checkout" data-luma-event-id="evt-N1dK2eEFY6meyHx"> Register for Event</a>
   * <a href="https://www.youtube.com/watch?v=LyOsXs7QORs">YouTube</a>
 
 * Subscribe for future events
