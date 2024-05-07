@@ -8,6 +8,14 @@ preview-img: assets/img/fellowship-panel/fellowship-panel.png
 summary: Panel to help grad students apply for fellowships.
 ---
 
+<p>
+<b style="color: maroon; font-size: 1.4em;">Update</b>
+<hr style="width: 4em; background-color: maroon;">
+This event has concluded. We'll update this page with recordings soon.<br>
+Meanwhile, checkout the livestream on YouTube: <a href="https://www.youtube.com/watch?v=LyOsXs7QORs">https://www.youtube.com/watch?v=LyOsXs7QORs</a>
+</p>
+<hr>
+
 <!-- TODO: Add banner when we have panelists -->
 <img src="{{ 'assets/img/fellowship-panel/fellowship-panel.png' | relative_url }}"/>
 
