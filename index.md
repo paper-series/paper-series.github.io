@@ -4,7 +4,7 @@ layout: default
 
 {% include start-banner.html %}
 <center>
-📢 Checkout the upcoming <a href="{{'/pages/events/fellowship-panel.html' | relative_url}}">Panel on Fellowships</a>!
+📢 Checkout the recent <a href="{{'/pages/events/fellowship-panel.html' | relative_url}}">Panel on Fellowships</a>!
 </center>
 {% include end-banner.html %}
 <br>
