@@ -11,8 +11,8 @@ summary: Panel to help grad students apply for fellowships.
 <p>
 <b style="color: maroon; font-size: 1.4em;">Update</b>
 <hr style="width: 4em; background-color: maroon;">
-This event has concluded. We'll update this page with recordings soon.<br>
-Meanwhile, checkout the livestream on YouTube: <a href="https://www.youtube.com/watch?v=LyOsXs7QORs">https://www.youtube.com/watch?v=LyOsXs7QORs</a>
+This event has concluded. <br>
+Checkout the livestream on YouTube: <a href="https://www.youtube.com/watch?v=LyOsXs7QORs">https://www.youtube.com/watch?v=LyOsXs7QORs</a>
 </p>
 <hr>
 
@@ -36,7 +36,7 @@ invited to join and ask questions!
   * <div style="font-weight: bold;" class="time-fmt-local" data-start="1714165200" data-duration="3600" data-show-timezone-link="true"></div>
 
 * Where:
-  * Zoom: <a href="https://lu.ma/event/evt-N1dK2eEFY6meyHx" class="luma-checkout--button" data-luma-action="checkout" data-luma-event-id="evt-N1dK2eEFY6meyHx"> Register for the Zoom Link</a>
+  <!-- * Zoom: <a href="https://lu.ma/event/evt-N1dK2eEFY6meyHx" class="luma-checkout--button" data-luma-action="checkout" data-luma-event-id="evt-N1dK2eEFY6meyHx"> Register for the Zoom Link</a> -->
   * <a href="https://www.youtube.com/watch?v=LyOsXs7QORs">YouTube</a>
 
 * Subscribe for future events
