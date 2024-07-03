@@ -12,7 +12,7 @@ summary: Panel to help grad students apply for fellowships.
 <b style="color: maroon; font-size: 1.4em;">Update</b>
 <hr style="width: 4em; background-color: maroon;">
 This event has concluded. <br>
-Checkout the livestream on YouTube: <a href="https://www.youtube.com/watch?v=LyOsXs7QORs">https://www.youtube.com/watch?v=LyOsXs7QORs</a>
+Checkout a short summary of the event below and checkout the livestream on YouTube: <a href="https://www.youtube.com/watch?v=LyOsXs7QORs">https://www.youtube.com/watch?v=LyOsXs7QORs</a>
 </p>
 <hr>
 
@@ -20,6 +20,60 @@ Checkout the livestream on YouTube: <a href="https://www.youtube.com/watch?v=LyO
 <img src="{{ 'assets/img/fellowship-panel/fellowship-panel.png' | relative_url }}"/>
 
 <hr>
+
+## Event Summary
+
+Our very own [Yuhong](https://www.yuhong-zhong.com/), a PhD student at Columbia University, led the discussion. He and the panelists talked about how important fellowships are for boosting your profile and easing the financial burden on advisors.
+
+#### Meet the Panelists
+
+The panel had four speakers:
+
+-   **Shimaa**: Now a research scientist at Visa, she recently graduated from the University of Wisconsin-Madison, where she studied security, privacy, and trustworthy AI.
+-   **Yuke**: A final-year PhD student at UCSB, working on systems and compiler optimization for deep learning.
+-   **Mark**: A PhD student at Stanford, focused on improving the performance and security of data center applications.
+-   **Yang**: A final-year PhD student at Harvard, interested in networking, operating systems, and distributed systems.
+
+#### Writing a Great Research Statement
+
+One key topic was how to write a strong research statement. Here's are key takeaways from the panel:
+
+-   **Background**: Explain the context and why your work is important.
+-   **Goals and Problems**: Outline what you want to achieve and the challenges you are addressing.
+-   **Major Projects**: Describe your significant research projects.
+-   **Conclusion and Future Work**: Summarize your work and discuss what you plan to do next.
+
+Mark emphasized the need to align your research with what the sponsor values. Understanding what they are looking for and tailoring your proposal to meet those needs can make a big difference.
+
+#### The Importance of Collaboration
+
+Working with industry partners can give you valuable insights and strengthen your application. Yang shared his experience collaborating with Google on a project about fault tolerance in data centers. Such partnerships not only enhance your research but also show its relevance and potential impact.
+
+#### Balancing Past and Future Research
+
+The panelists talked about the need to balance showcasing your past achievements and outlining your future plans. Shimaa suggested that while it's important to highlight your past work, linking it to your future research can make your proposal more compelling.
+
+#### Highlighting Key Insights
+
+When describing your research projects, focus on what makes your work unique. Yuke advised highlighting key insights and comparing them to existing work. If your project has practical applications or has been adopted, be sure to mention it. Keep your descriptions concise and impactful.
+
+#### Creating a Cohesive Story
+
+Another key point was the importance of having a cohesive story. Even if your projects cover different areas, tying them together under a common theme or problem can strengthen your application. Yang suggested using keywords like performance and security to link various aspects of his research.
+
+#### Practical Tips for Applicants
+
+1.  **Know the Sponsor's Focus**: Research what the sponsor values and align your proposal with their goals.
+2.  **Leverage Collaborations**: Work with industry partners to gain insights and strengthen your application.
+3.  **Be Strategic**: Balance your past achievements with future plans, and be strategic about the research directions you highlight.
+4.  **Tell a Story**: Create a cohesive narrative that ties your projects together and shows how they contribute to a larger vision.
+
+#### Final Thoughts
+
+Getting a PhD fellowship or Rising Star Award is tough, but with the right approach, it's possible. The insights from the panel offer a helpful guide for aspiring applicants. Whether you're just starting your PhD or are well into it, these tips can help you navigate the application process with confidence.
+
+Remember, your research statement is more than just a document. It's a reflection of your journey, your goals, and your vision for the future. Write it carefully and let your passion shine through. Good luck!
+
 
 ## A Panel on Fellowships
 
