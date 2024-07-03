@@ -78,10 +78,10 @@ Remember, your research statement is more than just a document. It's a reflectio
 
 <hr>
 
-*Updated April 26, 2024*
-
 
 ## A Panel on Fellowships
+
+*Updated April 26, 2024*
 
 We are organizing a panel to help graduate students in Computer Science and related fields with Fellowships.
 The panelists will include people who have won various fellowships in the past.
