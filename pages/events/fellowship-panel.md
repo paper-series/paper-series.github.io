@@ -23,11 +23,13 @@ Checkout a short summary of the event below and checkout the livestream on YouTu
 
 ## Event Summary
 
+*Updated July 3, 2024*
+
 Our very own [Yuhong](https://www.yuhong-zhong.com/), a PhD student at Columbia University, led the discussion. He and the panelists talked about how important fellowships are for boosting your profile and easing the financial burden on advisors.
 
 #### Meet the Panelists
 
-The panel had four speakers:
+We had four speakers with us:
 
 -   **Shimaa**: Now a research scientist at Visa, she recently graduated from the University of Wisconsin-Madison, where she studied security, privacy, and trustworthy AI.
 -   **Yuke**: A final-year PhD student at UCSB, working on systems and compiler optimization for deep learning.
@@ -73,6 +75,10 @@ Another key point was the importance of having a cohesive story. Even if your pr
 Getting a PhD fellowship or Rising Star Award is tough, but with the right approach, it's possible. The insights from the panel offer a helpful guide for aspiring applicants. Whether you're just starting your PhD or are well into it, these tips can help you navigate the application process with confidence.
 
 Remember, your research statement is more than just a document. It's a reflection of your journey, your goals, and your vision for the future. Write it carefully and let your passion shine through. Good luck!
+
+<hr>
+
+*Updated April 26, 2024*
 
 
 ## A Panel on Fellowships
